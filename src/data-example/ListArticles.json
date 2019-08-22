@@ -1,0 +1,35 @@
+{
+    "listArticles": [
+        {
+            "id": "wqoieuqw",
+            "title": "¿Por qué Google honra a Tyrus Wong con un doodle internacional?",
+            "principalImage":"https://res.cloudinary.com/mundo/image/upload/c_crop,g_north_west,h_383,w_730,x_0,y_9/c_fill,h_316,w_600/e_sharpen,f_auto,fl_lossy,q_auto/v1540473900/Doodle_k2hoc8.jpg",
+            "importantLabel":2
+
+        },
+        {
+            "id": "wqsdaasuqw",
+            "title": "Interceptan otros dos paquetes sospechosos dirigidos a Joe Biden y Robert de Niro",
+            "principalImage":"https://res.cloudinary.com/mundo/image/upload/c_crop,g_north_west,h_2100,w_4000,x_0,y_74/c_fill,h_316,w_600/e_sharpen,f_auto,fl_lossy,q_auto/v1540392620/UltimaHora_Generic-1-3_jxehvp.jpg",
+            "importantLabel":2
+        },
+        {
+            "id": "wqasdoieuqw",
+            "title": "Trump habló con líderes del Pentágono sobre opciones ante caravana migratoria",
+            "principalImage":"https://res.cloudinary.com/mundo/image/upload/c_crop,g_north_west,h_2372,w_4500,x_0,y_0/c_fill,h_589,w_1120/e_sharpen,f_auto,fl_lossy,q_auto/v1536194149/AP18248776959292_krcvpt.jpg",
+            "importantLabel":1
+        },
+        {
+            "id": "wqogtieuqw",
+            "title": "Powerball: números ganadores del sorteo del miércoles (10/24/18) y ¿cómo jugar?",
+            "principalImage":"https://res.cloudinary.com/mundo/image/upload/c_crop,g_north_west,h_2100,w_4000,x_0,y_149/c_fill,h_316,w_600/e_sharpen,f_auto,fl_lossy,q_auto/v1515296115/ultimahorapowerball_tgytdz.jpg",
+            "importantLabel":2
+        },
+        {
+            "id": "wqAsoieuqw",
+            "title": "Ana Patricia se sincera y muestra los kilos extras que le dejó su embarazo",
+            "principalImage":"https://res.cloudinary.com/mundo/image/upload/c_crop,g_north_west,h_2006,w_3811,x_0,y_64/c_fill,h_316,w_600/e_sharpen,f_auto,fl_lossy,q_auto/v1540403976/092518_ANAPATRICIA_DESPIERTAVC5A4836_zyhgvc.jpg",
+            "importantLabel":2
+        }
+    ]
+}

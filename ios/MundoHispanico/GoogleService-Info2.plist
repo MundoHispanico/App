@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>348907626697-ru5ta5g0gsrisoochue86l82jvbv4853.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.348907626697-ru5ta5g0gsrisoochue86l82jvbv4853</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9GZEi2Wf_9HzGK00HA0eM-44Qh823ydE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>348907626697</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ml.MundoHispanico</string>
+	<key>PROJECT_ID</key>
+	<string>rntest-demo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rntest-demo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:348907626697:ios:aa5e3a5b4328ecad</string>
+	<key>DATABASE_URL</key>
+	<string>https://rntest-demo.firebaseio.com</string>
+</dict>
+</plist>

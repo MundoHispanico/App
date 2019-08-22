@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging.m \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/Public/FIRMessaging.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessaging_Private.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingAnalytics.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseAnalyticsInterop/FIRAnalyticsInterop.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingClient.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingConstants.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingContextManagerService.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDataMessageManager.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingDefines.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingLogger.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMMessageCode.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingPubSub.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingReceiver.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRemoteNotificationsProxy.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingRmqManager.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingSyncMessageManager.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingUtilities.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/FIRMessagingVersionUtilities.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRAppInternal.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRApp.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRErrors.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRErrorCode.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRComponent.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRComponentContainer.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRComponentType.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRComponentRegistrant.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRCoreConfigurable.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/FirebaseCore/FIRDependency.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/Headers/Private/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/baps/Dev/ReactNative/MundoHispanico/ios/Pods/FirebaseMessaging/Firebase/Messaging/NSError+FIRMessaging.h

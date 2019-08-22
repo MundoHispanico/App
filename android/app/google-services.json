@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "20882370891",
+    "firebase_url": "https://mundohispanico-com.firebaseio.com",
+    "project_id": "mundohispanico-com",
+    "storage_bucket": "mundohispanico-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20882370891:android:9162445788329b12",
+        "android_client_info": {
+          "package_name": "com.ml.mundohispanico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu22jNaXNxVTSSo-deERIg-jBQ3c0_lUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20882370891-qldaee7dn7co9l4cdgei8ipfrb8sr76b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20882370891-9igodo8qj0ct140a7qvs2ajcbtc575k3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ml.MundoHispanico",
+                "app_store_id": "1139902510"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20882370891:android:66c645541093be9a",
+        "android_client_info": {
+          "package_name": "com.mundohispanico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu22jNaXNxVTSSo-deERIg-jBQ3c0_lUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20882370891-qldaee7dn7co9l4cdgei8ipfrb8sr76b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "20882370891-9igodo8qj0ct140a7qvs2ajcbtc575k3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ml.MundoHispanico",
+                "app_store_id": "1139902510"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3556077909373398~7346677875"
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2602 @@
+[
+    {
+        "id": 101,
+        "name": "¡Ahora Sí!",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/ahorasi",
+        "slug": "ahorasi",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/24d2d7fe47fb76923e032e11433f6f2e?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/24d2d7fe47fb76923e032e11433f6f2e?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/24d2d7fe47fb76923e032e11433f6f2e?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/101"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 249,
+        "name": "Aaron Xacur",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/xacurap",
+        "slug": "xacurap",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/7c2757f1ca64ea3f5a35786255f07d21?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/7c2757f1ca64ea3f5a35786255f07d21?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/7c2757f1ca64ea3f5a35786255f07d21?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/249"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 32,
+        "name": "Agencia EFE",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/agenciaefe",
+        "slug": "agenciaefe",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/f3da864508c44fe962ab40ed2a6d63e3?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/f3da864508c44fe962ab40ed2a6d63e3?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/f3da864508c44fe962ab40ed2a6d63e3?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/32"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 163,
+        "name": "Agencia El Universal",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/agenciaeluniversal",
+        "slug": "agenciaeluniversal",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/c3a724f59d3245b0e166b278f809a9c7?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/c3a724f59d3245b0e166b278f809a9c7?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/c3a724f59d3245b0e166b278f809a9c7?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/163"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 108,
+        "name": "Agencia México",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/agenciamexico",
+        "slug": "agenciamexico",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/f736f09138ac55cee6b47b5e54fcbb16?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/f736f09138ac55cee6b47b5e54fcbb16?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/f736f09138ac55cee6b47b5e54fcbb16?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/108"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 33,
+        "name": "Agencia Reforma",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/agenciareforma",
+        "slug": "agenciareforma",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/5656149c31573d125a0d3e4327b345f0?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/5656149c31573d125a0d3e4327b345f0?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/5656149c31573d125a0d3e4327b345f0?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/33"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 34,
+        "name": "AJC",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/ajc",
+        "slug": "ajc",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/68b616e6a8f745b3e821008ecabf77bc?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/68b616e6a8f745b3e821008ecabf77bc?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/68b616e6a8f745b3e821008ecabf77bc?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/34"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 19,
+        "name": "Alberto Brown Rodríguez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/albertorodriguez",
+        "slug": "albertorodriguez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/182f4337d2c0b72db6faf3d3898e5a3e?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/182f4337d2c0b72db6faf3d3898e5a3e?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/182f4337d2c0b72db6faf3d3898e5a3e?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/19"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 167,
+        "name": "Alejandra Barrios",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/abarrios",
+        "slug": "abarrios",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/5caedafe3de078127a3231035d47c5c6?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/5caedafe3de078127a3231035d47c5c6?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/5caedafe3de078127a3231035d47c5c6?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/167"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 238,
+        "name": "Alejandra Santorum",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/alejandrasantorum",
+        "slug": "alejandrasantorum",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/4dbbf7080b46f8d39a903d934856b162?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/4dbbf7080b46f8d39a903d934856b162?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/4dbbf7080b46f8d39a903d934856b162?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/238"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 22,
+        "name": "Alejandro Garay",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/alejandrogaray",
+        "slug": "alejandrogaray",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/b662b982877b35c5741127c6d2c53d46?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/b662b982877b35c5741127c6d2c53d46?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/b662b982877b35c5741127c6d2c53d46?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/22"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 203,
+        "name": "Alejandro Manrique",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/alejandro-manrique",
+        "slug": "alejandro-manrique",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/68af9e0483df937814cca21fc8b1df29?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/68af9e0483df937814cca21fc8b1df29?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/68af9e0483df937814cca21fc8b1df29?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/203"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 192,
+        "name": "Alexandra García",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/alexandra-garcia",
+        "slug": "alexandra-garcia",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/051460cefc81013cb8fd85e0a1a5ceff?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/051460cefc81013cb8fd85e0a1a5ceff?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/051460cefc81013cb8fd85e0a1a5ceff?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/192"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 244,
+        "name": "Alexandra Mendoza",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/alemendoza",
+        "slug": "alemendoza",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/32ad7d331358c8a15174e491020f6f5d?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/32ad7d331358c8a15174e491020f6f5d?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/32ad7d331358c8a15174e491020f6f5d?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/244"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 193,
+        "name": "Alfredo Suárez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/alfredo-suarez",
+        "slug": "alfredo-suarez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/5764e0eba305eea784f90af459313849?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/5764e0eba305eea784f90af459313849?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/5764e0eba305eea784f90af459313849?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/193"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 20,
+        "name": "Alonso González Bañuelas",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/alonsobanuelas",
+        "slug": "alonsobanuelas",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/360fa8fe8cf5ae8815e389d315dd8d1f?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/360fa8fe8cf5ae8815e389d315dd8d1f?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/360fa8fe8cf5ae8815e389d315dd8d1f?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/20"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 191,
+        "name": "Anabel Navarro Camero",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/anabel-navarro",
+        "slug": "anabel-navarro",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/d7af8d09af1ae1e0e1938903d93881b7?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/d7af8d09af1ae1e0e1938903d93881b7?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/d7af8d09af1ae1e0e1938903d93881b7?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/191"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 229,
+        "name": "Andrés Gutierrez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/andres-gutierrez",
+        "slug": "andres-gutierrez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/f9e8151124d4329696e683249900b6e3?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/f9e8151124d4329696e683249900b6e3?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/f9e8151124d4329696e683249900b6e3?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/229"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 28,
+        "name": "Ángel Carbajal",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/angelcarbajal",
+        "slug": "angelcarbajal",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/f026b29ce05ac8a49f668febdbaf07e2?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/f026b29ce05ac8a49f668febdbaf07e2?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/f026b29ce05ac8a49f668febdbaf07e2?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/28"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 106,
+        "name": "Aníbal Calderón",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/anibalcalderon",
+        "slug": "anibalcalderon",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/573fb042954eab71c5e5e00ac0a90fc0?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/573fb042954eab71c5e5e00ac0a90fc0?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/573fb042954eab71c5e5e00ac0a90fc0?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/106"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 132,
+        "name": "Antonio Ordoñez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/antonioordonez",
+        "slug": "antonioordonez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/b2d33371a6a1a017ef5b52ca3185d209?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/b2d33371a6a1a017ef5b52ca3185d209?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/b2d33371a6a1a017ef5b52ca3185d209?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/132"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 115,
+        "name": "Austin American-Statesman",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/austinamericanstatesman",
+        "slug": "austinamericanstatesman",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/c98e8c099e9fb7d9e0002a4ad1d6a7aa?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/c98e8c099e9fb7d9e0002a4ad1d6a7aa?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/c98e8c099e9fb7d9e0002a4ad1d6a7aa?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/115"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 161,
+        "name": "Carlos Moreno",
+        "url": "",
+        "description": "Carlos Moreno es el corresponsal nacional de MundoHispánico.com. El periodista de origen venezolano, migró a Estados Unidos en 2015 en busca de libertad de expresión. Durante su carrera en Estados Unidos, ha trabajado en Telemundo Atlanta y en varias plataformas multimedia, una trayectoria durante la cual ya ha ganado tres premios Emmy por sus reportajes especiales. Moreno ha cubierto numerosas historias exclusivas sobre inmigración, operativos de ICE, la frontera, y los huracánes Irma y María.",
+        "link": "https://mundohispanico.com/author/carlosmoreno",
+        "slug": "carlosmoreno",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/b751f2fca33374d9a0e1867573058114?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/b751f2fca33374d9a0e1867573058114?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/b751f2fca33374d9a0e1867573058114?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/161"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 21,
+        "name": "Carmen Rivera",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/carmenrivera",
+        "slug": "carmenrivera",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/63d59d9ee548407db4051380936b626e?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/63d59d9ee548407db4051380936b626e?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/63d59d9ee548407db4051380936b626e?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/21"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 155,
+        "name": "Caterina Balzano",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/caterinabalzano",
+        "slug": "caterinabalzano",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/c1d911f5c161a5d5e8f0954188166eed?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/c1d911f5c161a5d5e8f0954188166eed?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/c1d911f5c161a5d5e8f0954188166eed?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/155"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 126,
+        "name": "Cesar Diaz",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/cesardiaz",
+        "slug": "cesardiaz",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/db38a93387e0b6321c36226b9472c192?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/db38a93387e0b6321c36226b9472c192?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/db38a93387e0b6321c36226b9472c192?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/126"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 241,
+        "name": "Chris Cabezas",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/chris-cabezas",
+        "slug": "chris-cabezas",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/814c4c27868725404c3600b98bfc2874?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/814c4c27868725404c3600b98bfc2874?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/814c4c27868725404c3600b98bfc2874?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/241"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 96,
+        "name": "Chris LaFay",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/chrislafay",
+        "slug": "chrislafay",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/9b6adf655b4831c7039347f6c50d00a0?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/9b6adf655b4831c7039347f6c50d00a0?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/9b6adf655b4831c7039347f6c50d00a0?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/96"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 159,
+        "name": "Clark.com",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/clarkcom",
+        "slug": "clarkcom",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/19cb23405728f3d2a67612b754fe52bd?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/19cb23405728f3d2a67612b754fe52bd?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/19cb23405728f3d2a67612b754fe52bd?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/159"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 125,
+        "name": "Claudio Bonus",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/claudiobonus",
+        "slug": "claudiobonus",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/c321d5b9978762ccae4b67b09a4f54f0?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/c321d5b9978762ccae4b67b09a4f54f0?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/c321d5b9978762ccae4b67b09a4f54f0?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/125"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 110,
+        "name": "CMG National Content Desk",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/cmgnationalcontentdesk",
+        "slug": "cmgnationalcontentdesk",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/4d5813ec7f49a1a7ae28925a77cd6823?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/4d5813ec7f49a1a7ae28925a77cd6823?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/4d5813ec7f49a1a7ae28925a77cd6823?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/110"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 212,
+        "name": "Common Sense Latino",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/common-sense-latino",
+        "slug": "common-sense-latino",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/f137d3b36fcdcb65ca8a1280dbbfa638?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/f137d3b36fcdcb65ca8a1280dbbfa638?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/f137d3b36fcdcb65ca8a1280dbbfa638?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/212"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "name": "Daniel Viotto",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/danielviotto",
+        "slug": "danielviotto",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/1c3a5daf1593ea91bc06c33cc98339cb?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/1c3a5daf1593ea91bc06c33cc98339cb?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/1c3a5daf1593ea91bc06c33cc98339cb?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/10"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 139,
+        "name": "Daniela Constantino",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/danielaconstantino",
+        "slug": "danielaconstantino",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/d4e743feecd90d5b8abe4d1bdb6a03c2?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/d4e743feecd90d5b8abe4d1bdb6a03c2?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/d4e743feecd90d5b8abe4d1bdb6a03c2?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/139"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 23,
+        "name": "Daniela Herrera",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/danielaherrera",
+        "slug": "danielaherrera",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/ee68597d8770238dd533edabf592b08c?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/ee68597d8770238dd533edabf592b08c?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/ee68597d8770238dd533edabf592b08c?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/23"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 169,
+        "name": "David Contreras",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/dcontreras",
+        "slug": "dcontreras",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/370f9b5dd5771d5f0ed202e1d4bb894b?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/370f9b5dd5771d5f0ed202e1d4bb894b?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/370f9b5dd5771d5f0ed202e1d4bb894b?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/169"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 117,
+        "name": "David Dorantes",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/daviddorantes",
+        "slug": "daviddorantes",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/aae5d4028f4b1f750a8cb1405cb44e9d?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/aae5d4028f4b1f750a8cb1405cb44e9d?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/aae5d4028f4b1f750a8cb1405cb44e9d?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/117"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 234,
+        "name": "Diana Bello",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/dianabello",
+        "slug": "dianabello",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/cfbc9de206232c33364996fe658f0f6c?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/cfbc9de206232c33364996fe658f0f6c?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/cfbc9de206232c33364996fe658f0f6c?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/234"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 128,
+        "name": "Diego Aparicio",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/diegoaparicio",
+        "slug": "diegoaparicio",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/656a3bcee370968922fdde273ff6bcdd?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/656a3bcee370968922fdde273ff6bcdd?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/656a3bcee370968922fdde273ff6bcdd?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/128"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 127,
+        "name": "Divalizeth Murillo",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/divalizethmurillo",
+        "slug": "divalizethmurillo",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/2a6a79be65d7cae3720dac98cdf2347f?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/2a6a79be65d7cae3720dac98cdf2347f?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/2a6a79be65d7cae3720dac98cdf2347f?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/127"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 111,
+        "name": "Édgar Rendón",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/edgarrendon",
+        "slug": "edgarrendon",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/3a2d7caf8a311ed22794884f6eb910d7?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/3a2d7caf8a311ed22794884f6eb910d7?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/3a2d7caf8a311ed22794884f6eb910d7?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/111"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 124,
+        "name": "Eduardo Sanchez-Ubanell",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/eduardosanchez",
+        "slug": "eduardosanchez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/79cc7efd8a5cc2ae3d4a2e98c667984f?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/79cc7efd8a5cc2ae3d4a2e98c667984f?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/79cc7efd8a5cc2ae3d4a2e98c667984f?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/124"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 211,
+        "name": "El Financiero",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/el-financiero",
+        "slug": "el-financiero",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/49129a706ddc31da1b395d32bccf2e8a?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/49129a706ddc31da1b395d32bccf2e8a?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/49129a706ddc31da1b395d32bccf2e8a?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/211"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 129,
+        "name": "Eloy Tupayachi",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/eloytupayachi",
+        "slug": "eloytupayachi",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/5368cde42cb3c29e4327a72089704196?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/5368cde42cb3c29e4327a72089704196?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/5368cde42cb3c29e4327a72089704196?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/129"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 107,
+        "name": "En 3 Minutos",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/en3minutos",
+        "slug": "en3minutos",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/222b1e8cbf7bcefd676e82051c8e634a?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/222b1e8cbf7bcefd676e82051c8e634a?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/222b1e8cbf7bcefd676e82051c8e634a?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/107"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 232,
+        "name": "Enrique García Fuentes",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/egarciafuentes",
+        "slug": "egarciafuentes",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/254bcf5dc5c0249b9f7cb80071dec201?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/254bcf5dc5c0249b9f7cb80071dec201?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/254bcf5dc5c0249b9f7cb80071dec201?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/232"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 198,
+        "name": "Ernesto Campos",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/ernesto-campos",
+        "slug": "ernesto-campos",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/48bb82e4cb0ee3da22987441cc138bdc?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/48bb82e4cb0ee3da22987441cc138bdc?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/48bb82e4cb0ee3da22987441cc138bdc?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/198"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 214,
+        "name": "Estefanía Reyes",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/estefania-reyes",
+        "slug": "estefania-reyes",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/3cae20bf3e91bae5c2f70f52642f1ffa?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/3cae20bf3e91bae5c2f70f52642f1ffa?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/3cae20bf3e91bae5c2f70f52642f1ffa?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/214"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 150,
+        "name": "Exequíades Chirinos",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/echirinos",
+        "slug": "echirinos",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/5f06ed913c11ac5e67dcbe5c5d00ac0a?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/5f06ed913c11ac5e67dcbe5c5d00ac0a?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/5f06ed913c11ac5e67dcbe5c5d00ac0a?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/150"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 237,
+        "name": "Fabiola Villarreal Perez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/fabiola-villarreal-perez",
+        "slug": "fabiola-villarreal-perez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/0bd5043540a9793fb658a609ae88c353?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/0bd5043540a9793fb658a609ae88c353?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/0bd5043540a9793fb658a609ae88c353?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/237"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 136,
+        "name": "Francisco Villalobos",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/franciscovillalobos",
+        "slug": "franciscovillalobos",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/b3e9ded7fd312cb71ae47a76e7284931?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/b3e9ded7fd312cb71ae47a76e7284931?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/b3e9ded7fd312cb71ae47a76e7284931?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/136"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 114,
+        "name": "glosi.com",
+        "url": "http://glosi.com",
+        "description": "",
+        "link": "https://mundohispanico.com/author/glosi",
+        "slug": "glosi",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/23e538194c7c9d1f870263baf448347c?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/23e538194c7c9d1f870263baf448347c?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/23e538194c7c9d1f870263baf448347c?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/114"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 134,
+        "name": "Hablemos Mundo Hispánico",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/hablemos",
+        "slug": "hablemos",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/7bcd88608ce4e7fadce210497f2ef0ab?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/7bcd88608ce4e7fadce210497f2ef0ab?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/7bcd88608ce4e7fadce210497f2ef0ab?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/134"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 27,
+        "name": "Hernan Latorre",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/hernanlatorre",
+        "slug": "hernanlatorre",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/557690ce4952a5d4ab41d93572ea5446?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/557690ce4952a5d4ab41d93572ea5446?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/557690ce4952a5d4ab41d93572ea5446?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/27"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 112,
+        "name": "Jeremy Schwartz",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/jeremyschwartz",
+        "slug": "jeremyschwartz",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/64ad83f3424e06f3f85664b83762335b?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/64ad83f3424e06f3f85664b83762335b?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/64ad83f3424e06f3f85664b83762335b?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/112"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 24,
+        "name": "Jessica Mancía",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/jessicamancia",
+        "slug": "jessicamancia",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/6fd3c623da15c85b89bea8196a328fd8?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/6fd3c623da15c85b89bea8196a328fd8?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/6fd3c623da15c85b89bea8196a328fd8?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/24"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 13,
+        "name": "Jesús Uzcátegui",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/jeuzcategui",
+        "slug": "jeuzcategui",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/a24cc25f5b4d603c907ebdb177c36ad7?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/a24cc25f5b4d603c907ebdb177c36ad7?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/a24cc25f5b4d603c907ebdb177c36ad7?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/13"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 30,
+        "name": "Jimmy Vega",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/jimmyvega",
+        "slug": "jimmyvega",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/7157ca937fca5c157ac917aa7825fbd8?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/7157ca937fca5c157ac917aa7825fbd8?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/7157ca937fca5c157ac917aa7825fbd8?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/30"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "name": "Johanes Roselló",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/johanesrosello",
+        "slug": "johanesrosello",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/c4a20fe6378a22c32e4b9a546b57082a?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/c4a20fe6378a22c32e4b9a546b57082a?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/c4a20fe6378a22c32e4b9a546b57082a?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/14"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 158,
+        "name": "Judith Martinez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/judithmartinez",
+        "slug": "judithmartinez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/7e29c5b08c34f59a58a80967be0281ad?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/7e29c5b08c34f59a58a80967be0281ad?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/7e29c5b08c34f59a58a80967be0281ad?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/158"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 145,
+        "name": "Juliana Barrera",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/julianabarrera",
+        "slug": "julianabarrera",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/96903c5eebdee08e76434150b2730637?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/96903c5eebdee08e76434150b2730637?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/96903c5eebdee08e76434150b2730637?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/145"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 140,
+        "name": "Katty Jiménez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/kattyjimenez",
+        "slug": "kattyjimenez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/a8268342b5a2fe40a232e731fc27eb9e?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/a8268342b5a2fe40a232e731fc27eb9e?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/a8268342b5a2fe40a232e731fc27eb9e?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/140"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 38,
+        "name": "Kelley Blue Book",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/kelleybluebook",
+        "slug": "kelleybluebook",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/3fa25f1de2fbf146700a47276920b967?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/3fa25f1de2fbf146700a47276920b967?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/3fa25f1de2fbf146700a47276920b967?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/38"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 207,
+        "name": "Lara-Carolina Fernández",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/lara-carolina-fernandez",
+        "slug": "lara-carolina-fernandez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/b9aa8a071cbed98ba34addf929d21680?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/b9aa8a071cbed98ba34addf929d21680?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/b9aa8a071cbed98ba34addf929d21680?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/207"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 103,
+        "name": "Liliana Valenzuela",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/lilianavalenzuela",
+        "slug": "lilianavalenzuela",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/aea44a743e697f419f9900543d826a2d?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/aea44a743e697f419f9900543d826a2d?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/aea44a743e697f419f9900543d826a2d?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/103"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 131,
+        "name": "Lourdes Vazquez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/lourdesvazquez",
+        "slug": "lourdesvazquez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/343f05ba0b06d62cccaef9ad9e67213c?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/343f05ba0b06d62cccaef9ad9e67213c?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/343f05ba0b06d62cccaef9ad9e67213c?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/131"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 141,
+        "name": "Lucía Benavides",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/luciabenavides",
+        "slug": "luciabenavides",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/dbd488397ac040cabc099eacedec35de?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/dbd488397ac040cabc099eacedec35de?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/dbd488397ac040cabc099eacedec35de?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/141"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 168,
+        "name": "Maite Ballesteros",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mballesteros",
+        "slug": "mballesteros",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/14f9efa461ba3fe8afa5367e5689002f?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/14f9efa461ba3fe8afa5367e5689002f?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/14f9efa461ba3fe8afa5367e5689002f?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/168"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 25,
+        "name": "Marcelo Wheelock",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/marcelowheelock",
+        "slug": "marcelowheelock",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/7374d241f556797aad73c4dc75f160b7?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/7374d241f556797aad73c4dc75f160b7?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/7374d241f556797aad73c4dc75f160b7?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/25"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 26,
+        "name": "Maria Alejandra Bastida",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mariabastida",
+        "slug": "mariabastida",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/5dfdf7e6d6e7a508906fd3d7a8921d9d?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/5dfdf7e6d6e7a508906fd3d7a8921d9d?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/5dfdf7e6d6e7a508906fd3d7a8921d9d?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/26"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "name": "María Bastidas",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mariabastidas",
+        "slug": "mariabastidas",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/0746bf29f4163691ca17ccbfb96e5a8b?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/0746bf29f4163691ca17ccbfb96e5a8b?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/0746bf29f4163691ca17ccbfb96e5a8b?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/11"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 144,
+        "name": "María Marín",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mariamarin",
+        "slug": "mariamarin",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/4ec93bd0c25e744ac5f1d1c588ca5366?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/4ec93bd0c25e744ac5f1d1c588ca5366?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/4ec93bd0c25e744ac5f1d1c588ca5366?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/144"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "name": "Mario Guevara",
+        "url": "",
+        "description": "Mario Guevara is a senior correspondent for MundoHispánico.com. He reports on subjects ranging from immigration, crime and politics, to human interest stories at a local and national level. Guevara’s work has been recognized by the National Association of Hispanic Journalists and the National Association of Hispanic Publications. Originally from El Salvador, Guevara began his career at Diario CoLatino and La Prensa Gráfica.",
+        "link": "https://mundohispanico.com/author/mario-guevara",
+        "slug": "mario-guevara",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/585e7fe7b758e37599f6177059551855?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/585e7fe7b758e37599f6177059551855?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/585e7fe7b758e37599f6177059551855?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/15"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 165,
+        "name": "Mario Santana",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mariosantana",
+        "slug": "mariosantana",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/4db9382e88d8625fcac28c7ff9c23421?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/4db9382e88d8625fcac28c7ff9c23421?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/4db9382e88d8625fcac28c7ff9c23421?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/165"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 102,
+        "name": "Marlon Sorto",
+        "url": "http://mundohispanico.com/author/marlonsorto",
+        "description": "",
+        "link": "https://mundohispanico.com/author/marlonsorto",
+        "slug": "marlonsorto",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/b5ede37dd461b5f6c347e623293dd366?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/b5ede37dd461b5f6c347e623293dd366?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/b5ede37dd461b5f6c347e623293dd366?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/102"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "name": "Melody Miranda",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/melodymiranda",
+        "slug": "melodymiranda",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/f20e45c899247cec914bd2fdd566377b?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/f20e45c899247cec914bd2fdd566377b?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/f20e45c899247cec914bd2fdd566377b?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/12"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 230,
+        "name": "Mezcalent",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mezcalent",
+        "slug": "mezcalent",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/0c5bbf708a90267b61d45f58e63f2756?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/0c5bbf708a90267b61d45f58e63f2756?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/0c5bbf708a90267b61d45f58e63f2756?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/230"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "name": "MH Ventas Digitales",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mhventasdigitales",
+        "slug": "mhventasdigitales",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/36f48b760fce68b2d02374d4aaf84e7e?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/36f48b760fce68b2d02374d4aaf84e7e?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/36f48b760fce68b2d02374d4aaf84e7e?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 16,
+        "name": "Miguel Martínez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/miguelmartinez",
+        "slug": "miguelmartinez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/83341dc5c3baed46ed03016711b26084?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/83341dc5c3baed46ed03016711b26084?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/83341dc5c3baed46ed03016711b26084?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/16"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "name": "Mike Cummings",
+        "url": "http://devmethods.com",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mcummings",
+        "slug": "mcummings",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/a586e98465b60f4f662a0b7c2059a78b?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/a586e98465b60f4f662a0b7c2059a78b?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/a586e98465b60f4f662a0b7c2059a78b?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/5"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 197,
+        "name": "Mílitza Zúpan",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/militza-zupan",
+        "slug": "militza-zupan",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/95297eadea6439f23962a69c16ba298d?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/95297eadea6439f23962a69c16ba298d?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/95297eadea6439f23962a69c16ba298d?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/197"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 182,
+        "name": "MiMundo Dinero",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mimundodinero",
+        "slug": "mimundodinero",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/964a0ffd2d4dfcceae644394531457ac?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/964a0ffd2d4dfcceae644394531457ac?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/964a0ffd2d4dfcceae644394531457ac?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/182"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 183,
+        "name": "MiMundo Fashion",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mimundofashion",
+        "slug": "mimundofashion",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/f8cd6af539e6a970c00a35f4765b11e0?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/f8cd6af539e6a970c00a35f4765b11e0?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/f8cd6af539e6a970c00a35f4765b11e0?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/183"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 217,
+        "name": "MiMundo Latina",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mimundo-latina",
+        "slug": "mimundo-latina",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/68a018f2e0ad6ff67c6bf7305ef584e1?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/68a018f2e0ad6ff67c6bf7305ef584e1?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/68a018f2e0ad6ff67c6bf7305ef584e1?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/217"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 227,
+        "name": "MiMundo Money",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mimundomoney",
+        "slug": "mimundomoney",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/e18883faf7dd61f0272dbecf6a098140?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/e18883faf7dd61f0272dbecf6a098140?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/e18883faf7dd61f0272dbecf6a098140?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/227"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 160,
+        "name": "MiMundo Motor",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mimundomotor",
+        "slug": "mimundomotor",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/2f13064fd6825cc8f284406c7453e56c?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/2f13064fd6825cc8f284406c7453e56c?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/2f13064fd6825cc8f284406c7453e56c?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/160"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 205,
+        "name": "MiMundo Sabor",
+        "url": "https://www.facebook.com/MiMundoSaborPage/",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mimundosabor",
+        "slug": "mimundosabor",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/1a896d2d4a6949bd0b86da6ee476a077?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/1a896d2d4a6949bd0b86da6ee476a077?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/1a896d2d4a6949bd0b86da6ee476a077?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/205"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 215,
+        "name": "MiMundoFAN",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/mimundo-fan",
+        "slug": "mimundo-fan",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/89ec9717489d41a2cf7c74e87e622d30?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/89ec9717489d41a2cf7c74e87e622d30?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/89ec9717489d41a2cf7c74e87e622d30?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/215"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 133,
+        "name": "Miriam González",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/ritalafashionista",
+        "slug": "ritalafashionista",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/a1578826ba27a29a0e4fdc11177e99ed?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/a1578826ba27a29a0e4fdc11177e99ed?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/a1578826ba27a29a0e4fdc11177e99ed?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/133"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 148,
+        "name": "Natalia Montoya",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/nataliamontoya",
+        "slug": "nataliamontoya",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/7aee1c3b793082ae6c4c0d635aef24ff?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/7aee1c3b793082ae6c4c0d635aef24ff?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/7aee1c3b793082ae6c4c0d635aef24ff?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/148"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 105,
+        "name": "Nicole Chávez",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/nicolechavez",
+        "slug": "nicolechavez",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/37259bead0327a336e3d1658908e1831?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/37259bead0327a336e3d1658908e1831?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/37259bead0327a336e3d1658908e1831?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/105"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 137,
+        "name": "Oxigeno Radio",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/oxigenoradio",
+        "slug": "oxigenoradio",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/7b8bbec44881a86d20caf532292dc366?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/7b8bbec44881a86d20caf532292dc366?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/7b8bbec44881a86d20caf532292dc366?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/137"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 186,
+        "name": "Paola Camacho",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/pcamacho",
+        "slug": "pcamacho",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/9ae9794503f7d4e0b3c78d1410d415a2?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/9ae9794503f7d4e0b3c78d1410d415a2?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/9ae9794503f7d4e0b3c78d1410d415a2?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/186"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 190,
+        "name": "Paola Sur",
+        "url": "http://jeuzcategui",
+        "description": "",
+        "link": "https://mundohispanico.com/author/paolasur",
+        "slug": "paolasur",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/75fc58921203dfc326ae20ceeb01ddb0?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/75fc58921203dfc326ae20ceeb01ddb0?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/75fc58921203dfc326ae20ceeb01ddb0?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/190"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 162,
+        "name": "Patty Rubí",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/pattyrubi",
+        "slug": "pattyrubi",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/546e273465780336cc29610b5ec272cf?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/546e273465780336cc29610b5ec272cf?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/546e273465780336cc29610b5ec272cf?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/162"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 156,
+        "name": "Pilar Hanes",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/pilarhanes",
+        "slug": "pilarhanes",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/f7fa8bbf83b920d314781ca78b21f98d?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/f7fa8bbf83b920d314781ca78b21f98d?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/f7fa8bbf83b920d314781ca78b21f98d?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/156"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 135,
+        "name": "Rafael Cruz",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/rafaelcruz",
+        "slug": "rafaelcruz",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/7a2da9c7781c18d2b5407937fe8f947e?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/7a2da9c7781c18d2b5407937fe8f947e?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/7a2da9c7781c18d2b5407937fe8f947e?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/135"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 256,
+        "name": "Ramiro Canovas",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/ramirocanovas",
+        "slug": "ramirocanovas",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/e073a5b0bca238a93e2f9bb76e9aa52f?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/e073a5b0bca238a93e2f9bb76e9aa52f?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/e073a5b0bca238a93e2f9bb76e9aa52f?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/256"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 172,
+        "name": "Redacción MH/Atlanta",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/redaccionmhatlanta",
+        "slug": "redaccionmhatlanta",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/4e362f1b1c029c013b5f9bdc68b109d4?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/4e362f1b1c029c013b5f9bdc68b109d4?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/4e362f1b1c029c013b5f9bdc68b109d4?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/172"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    },
+    {
+        "id": 180,
+        "name": "Redacción MH/Austin",
+        "url": "",
+        "description": "",
+        "link": "https://mundohispanico.com/author/redaccionmhaustin",
+        "slug": "redaccionmhaustin",
+        "avatar_urls": {
+            "24": "https://secure.gravatar.com/avatar/0bf5a16d88d53c5ed020772726dab73b?s=24&d=mm&r=g",
+            "48": "https://secure.gravatar.com/avatar/0bf5a16d88d53c5ed020772726dab73b?s=48&d=mm&r=g",
+            "96": "https://secure.gravatar.com/avatar/0bf5a16d88d53c5ed020772726dab73b?s=96&d=mm&r=g"
+        },
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users/180"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://mundohispanico.com/wp-json/wp/v2/users"
+                }
+            ]
+        }
+    }
+]

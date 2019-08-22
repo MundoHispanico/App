@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>2A7A9D19-7B72-4747-ADE8-3FBEA2C8DFCF</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A7A9D19-7B72-4747-ADE8-3FBEA2C8DFCF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MundoHispanico project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MundoHispanico</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MundoHispanico with scheme MundoHispanico and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>577792023.25809503</real>
+			<key>timeStoppedRecording</key>
+			<real>577792318.31913197</real>
+			<key>title</key>
+			<string>Building workspace MundoHispanico with scheme MundoHispanico and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2A7A9D19-7B72-4747-ADE8-3FBEA2C8DFCF</string>
+		</dict>
+		<key>F49A47AE-897E-48D7-ABC7-330D51F597E7</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F49A47AE-897E-48D7-ABC7-330D51F597E7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MundoHispanico project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MundoHispanico</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MundoHispanico with scheme MundoHispanico and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>577944667.103333</real>
+			<key>timeStoppedRecording</key>
+			<real>577944685.95631802</real>
+			<key>title</key>
+			<string>Building workspace MundoHispanico with scheme MundoHispanico and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F49A47AE-897E-48D7-ABC7-330D51F597E7</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

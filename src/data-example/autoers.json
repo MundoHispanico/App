@@ -1,0 +1,1286 @@
+{
+    "status": "ok",
+    "count": 128,
+    "authors": [
+        {
+            "id": 215,
+            "slug": "mimundo-fan",
+            "name": "MiMundoFAN",
+            "first_name": "MiMundoFAN",
+            "last_name": "",
+            "nickname": "MiMundo FAN",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 118,
+            "slug": "wsoctv",
+            "name": "WSOC-TV",
+            "first_name": "WSOC-TV",
+            "last_name": "",
+            "nickname": "wsoctv",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 183,
+            "slug": "mimundofashion",
+            "name": "MiMundo Fashion",
+            "first_name": "MiMundo Fashion",
+            "last_name": "",
+            "nickname": "MiMundoFashion",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 107,
+            "slug": "en3minutos",
+            "name": "En 3 Minutos",
+            "first_name": "En 3 Minutos",
+            "last_name": "",
+            "nickname": "en3minutos",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 184,
+            "slug": "redaccionmhwashingtondc",
+            "name": "Redacción MH/Washington D.C.",
+            "first_name": "Redacción MH/Washington D.C.",
+            "last_name": "",
+            "nickname": "redaccionMHwashingtonDC",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 172,
+            "slug": "redaccionmhatlanta",
+            "name": "Redacción MH/Atlanta",
+            "first_name": "Redacción MH/Atlanta",
+            "last_name": "",
+            "nickname": "redaccionmhatlanta",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 173,
+            "slug": "redaccionmhmiami",
+            "name": "Redacción MH/Miami",
+            "first_name": "Redacción MH/Miami",
+            "last_name": "",
+            "nickname": "RedaccionMHMiami",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 258,
+            "slug": "the-futbol-times",
+            "name": "The Futbol Times",
+            "first_name": "The Futbol Times",
+            "last_name": "",
+            "nickname": "The Futbol Times",
+            "url": "https://www.thefutboltimes.com",
+            "description": ""
+        },
+        {
+            "id": 174,
+            "slug": "redaccionmhtampa",
+            "name": "Redacción MH/Tampa",
+            "first_name": "Redacción MH/Tampa",
+            "last_name": "",
+            "nickname": "RedaccionMHTampa",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 211,
+            "slug": "el-financiero",
+            "name": "El Financiero",
+            "first_name": "El Financiero",
+            "last_name": "",
+            "nickname": "El Financiero",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 199,
+            "slug": "redaccionmhsanantonio",
+            "name": "Redacción MH/San Antonio",
+            "first_name": "Redacción MH/San Antonio",
+            "last_name": "",
+            "nickname": "RedaccionMHSanAntonio",
+            "url": "http://jeuzcategui",
+            "description": ""
+        },
+        {
+            "id": 175,
+            "slug": "redaccionmhorlando",
+            "name": "Redacción MH/Orlando",
+            "first_name": "Redacción MH/Orlando",
+            "last_name": "",
+            "nickname": "RedaccionMHOrlando",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 212,
+            "slug": "common-sense-latino",
+            "name": "Common Sense Latino",
+            "first_name": "Common Sense Latino",
+            "last_name": "",
+            "nickname": "Common Sense Latino",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 176,
+            "slug": "redaccionmhhouston",
+            "name": "Redacción MH/Houston",
+            "first_name": "Redacción MH/Houston",
+            "last_name": "",
+            "nickname": "RedaccionMHHouston",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 177,
+            "slug": "redaccionmhcharlotte",
+            "name": "Redacción MH/Charlotte",
+            "first_name": "Redacción MH/Charlotte",
+            "last_name": "",
+            "nickname": "RedaccionMHCharlotte",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 230,
+            "slug": "mezcalent",
+            "name": "Mezcalent",
+            "first_name": "Mezcalent",
+            "last_name": "",
+            "nickname": "Mezcalent",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 178,
+            "slug": "redaccionmhnewyork",
+            "name": "Redacción MH/NewYork",
+            "first_name": "Redacción MH/NewYork",
+            "last_name": "",
+            "nickname": "RedaccionMHNewYork",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 159,
+            "slug": "clarkcom",
+            "name": "Clark.com",
+            "first_name": "Clark.com",
+            "last_name": "",
+            "nickname": "clarkcom",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 114,
+            "slug": "glosi",
+            "name": "glosi.com",
+            "first_name": "glosi.com",
+            "last_name": "",
+            "nickname": "glosi",
+            "url": "http://glosi.com",
+            "description": ""
+        },
+        {
+            "id": 179,
+            "slug": "redaccionmhdallas",
+            "name": "Redacción MH/Dallas",
+            "first_name": "Redacción MH/Dallas",
+            "last_name": "",
+            "nickname": "RedaccionMHDallas",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 134,
+            "slug": "hablemos",
+            "name": "Hablemos Mundo Hispánico",
+            "first_name": "Hablemos",
+            "last_name": "",
+            "nickname": "hablemos",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 180,
+            "slug": "redaccionmhaustin",
+            "name": "Redacción MH/Austin",
+            "first_name": "Redacción MH/Austin",
+            "last_name": "",
+            "nickname": "RedaccionMHAustin",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 181,
+            "slug": "redaccionmhlosangeles",
+            "name": "Redacción MH/Los Ángeles",
+            "first_name": "Redacción MH/Los Ángeles",
+            "last_name": "",
+            "nickname": "RedaccionMHLosAngeles",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 182,
+            "slug": "mimundodinero",
+            "name": "MiMundo Dinero",
+            "first_name": "MiMundo Dinero",
+            "last_name": "",
+            "nickname": "MiMundoDinero",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 34,
+            "slug": "ajc",
+            "name": "AJC",
+            "first_name": "AJC",
+            "last_name": "AJC",
+            "nickname": "ajc",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 242,
+            "slug": "renealegria",
+            "name": "Rene Alegria",
+            "first_name": "Rene",
+            "last_name": "Alegria",
+            "nickname": "renealegria",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 26,
+            "slug": "mariabastida",
+            "name": "Maria Alejandra Bastida",
+            "first_name": "Maria",
+            "last_name": "Alejandra Bastida",
+            "nickname": "mariabastida",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 109,
+            "slug": "xeylialfaro",
+            "name": "Xeyli Alfaro",
+            "first_name": "Xeyli",
+            "last_name": "Alfaro",
+            "nickname": "xeylialfaro",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 115,
+            "slug": "austinamericanstatesman",
+            "name": "Austin American-Statesman",
+            "first_name": "Austin",
+            "last_name": "American-Statesman",
+            "nickname": "austinamericanstatesman",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 128,
+            "slug": "diegoaparicio",
+            "name": "Diego Aparicio",
+            "first_name": "Diego",
+            "last_name": "Aparicio",
+            "nickname": "diegoaparicio",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 168,
+            "slug": "mballesteros",
+            "name": "Maite Ballesteros",
+            "first_name": "Maite",
+            "last_name": "Ballesteros",
+            "nickname": "mballesteros",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 155,
+            "slug": "caterinabalzano",
+            "name": "Caterina Balzano",
+            "first_name": "Caterina",
+            "last_name": "Balzano",
+            "nickname": "caterinabalzano",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 145,
+            "slug": "julianabarrera",
+            "name": "Juliana Barrera",
+            "first_name": "Juliana",
+            "last_name": "Barrera",
+            "nickname": "julianabarrera",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 167,
+            "slug": "abarrios",
+            "name": "Alejandra Barrios",
+            "first_name": "Alejandra",
+            "last_name": "Barrios",
+            "nickname": "abarrios",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 11,
+            "slug": "mariabastidas",
+            "name": "María Bastidas",
+            "first_name": "María",
+            "last_name": "Bastidas",
+            "nickname": "mariabastidas",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 234,
+            "slug": "dianabello",
+            "name": "Diana Bello",
+            "first_name": "Diana",
+            "last_name": "Bello",
+            "nickname": "dianabello",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 141,
+            "slug": "luciabenavides",
+            "name": "Lucía Benavides",
+            "first_name": "Lucía",
+            "last_name": "Benavides",
+            "nickname": "Luciabenavides",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 38,
+            "slug": "kelleybluebook",
+            "name": "Kelley Blue Book",
+            "first_name": "Kelley",
+            "last_name": "Blue Book",
+            "nickname": "kelleybluebook",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 125,
+            "slug": "claudiobonus",
+            "name": "Claudio Bonus",
+            "first_name": "Claudio",
+            "last_name": "Bonus",
+            "nickname": "claudiobonus",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 149,
+            "slug": "wfxt",
+            "name": "WFXT Boston",
+            "first_name": "WFXT",
+            "last_name": "Boston",
+            "nickname": "WFXT",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 19,
+            "slug": "albertorodriguez",
+            "name": "Alberto Brown Rodríguez",
+            "first_name": "Alberto",
+            "last_name": "Brown Rodríguez",
+            "nickname": "albertorodriguez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 241,
+            "slug": "chris-cabezas",
+            "name": "Chris Cabezas",
+            "first_name": "Chris",
+            "last_name": "Cabezas",
+            "nickname": "Chris Cabezas",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 106,
+            "slug": "anibalcalderon",
+            "name": "Aníbal Calderón",
+            "first_name": "Aníbal",
+            "last_name": "Calderón",
+            "nickname": "anibalcalderon",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 186,
+            "slug": "pcamacho",
+            "name": "Paola Camacho",
+            "first_name": "Paola",
+            "last_name": "Camacho",
+            "nickname": "pcamacho",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 198,
+            "slug": "ernesto-campos",
+            "name": "Ernesto Campos",
+            "first_name": "Ernesto",
+            "last_name": "Campos",
+            "nickname": "Ernesto Campos",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 256,
+            "slug": "ramirocanovas",
+            "name": "Ramiro Canovas",
+            "first_name": "Ramiro",
+            "last_name": "Canovas",
+            "nickname": "ramirocanovas",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 28,
+            "slug": "angelcarbajal",
+            "name": "Ángel Carbajal",
+            "first_name": "Ángel",
+            "last_name": "Carbajal",
+            "nickname": "angelcarbajal",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 153,
+            "slug": "wsoc-tv",
+            "name": "WSOC-TV Charlotte",
+            "first_name": "WSOC-TV",
+            "last_name": "Charlotte",
+            "nickname": "wsoc-tv",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 105,
+            "slug": "nicolechavez",
+            "name": "Nicole Chávez",
+            "first_name": "Nicole",
+            "last_name": "Chávez",
+            "nickname": "nicolechavez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 150,
+            "slug": "echirinos",
+            "name": "Exequíades Chirinos",
+            "first_name": "Exequíades",
+            "last_name": "Chirinos",
+            "nickname": "echirinos",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 139,
+            "slug": "danielaconstantino",
+            "name": "Daniela Constantino",
+            "first_name": "Daniela",
+            "last_name": "Constantino",
+            "nickname": "danielaconstantino",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 110,
+            "slug": "cmgnationalcontentdesk",
+            "name": "CMG National Content Desk",
+            "first_name": "CMG National",
+            "last_name": "Content Desk",
+            "nickname": "cmgnationalcontentdesk",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 169,
+            "slug": "dcontreras",
+            "name": "David Contreras",
+            "first_name": "David",
+            "last_name": "Contreras",
+            "nickname": "dcontreras",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 135,
+            "slug": "rafaelcruz",
+            "name": "Rafael Cruz",
+            "first_name": "Rafael",
+            "last_name": "Cruz",
+            "nickname": "rafaelcruz",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "slug": "rdanielson",
+            "name": "Rich Danielson",
+            "first_name": "Rich",
+            "last_name": "Danielson",
+            "nickname": "rdanielson",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 126,
+            "slug": "cesardiaz",
+            "name": "Cesar Diaz",
+            "first_name": "César",
+            "last_name": "Díaz",
+            "nickname": "cesardiaz",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 113,
+            "slug": "samanthadiaz",
+            "name": "Samantha Díaz Roberts",
+            "first_name": "Samantha",
+            "last_name": "Díaz Roberts",
+            "nickname": "samanthadiaz",
+            "url": "",
+            "description": "Multiplatform journalist for MundoHispánico newspaper, la voz de la comunidad latina desde 1979. Contando las historias de nuestra gente un día a la vez."
+        },
+        {
+            "id": 37,
+            "slug": "mhventasdigitales",
+            "name": "MH Ventas Digitales",
+            "first_name": "MH Ventas",
+            "last_name": "Digitales",
+            "nickname": "mhventasdigitales",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 117,
+            "slug": "daviddorantes",
+            "name": "David Dorantes",
+            "first_name": "David",
+            "last_name": "Dorantes",
+            "nickname": "daviddorantes",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 32,
+            "slug": "agenciaefe",
+            "name": "Agencia EFE",
+            "first_name": "Agencia",
+            "last_name": "EFE",
+            "nickname": "AgenciaEFE",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 163,
+            "slug": "agenciaeluniversal",
+            "name": "Agencia El Universal",
+            "first_name": "Agencia",
+            "last_name": "El Universal",
+            "nickname": "agenciaeluniversal",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 207,
+            "slug": "lara-carolina-fernandez",
+            "name": "Lara-Carolina Fernández",
+            "first_name": "Lara-Carolina",
+            "last_name": "Fernández",
+            "nickname": "Lara-Carolina Fernández",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 22,
+            "slug": "alejandrogaray",
+            "name": "Alejandro Garay",
+            "first_name": "Alejandro",
+            "last_name": "Garay",
+            "nickname": "alejandrogaray",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 192,
+            "slug": "alexandra-garcia",
+            "name": "Alexandra García",
+            "first_name": "Alexandra",
+            "last_name": "García",
+            "nickname": "Alexandra Garcia",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 232,
+            "slug": "egarciafuentes",
+            "name": "Enrique García Fuentes",
+            "first_name": "Enrique",
+            "last_name": "García Fuentes",
+            "nickname": "egarciafuentes",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 133,
+            "slug": "ritalafashionista",
+            "name": "Miriam González",
+            "first_name": "Miriam",
+            "last_name": "González",
+            "nickname": "miriamglz",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 20,
+            "slug": "alonsobanuelas",
+            "name": "Alonso González Bañuelas",
+            "first_name": "Alonso",
+            "last_name": "González Bañuelas",
+            "nickname": "alonsobanuelas",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 15,
+            "slug": "mario-guevara",
+            "name": "Mario Guevara",
+            "first_name": "Mario",
+            "last_name": "Guevara",
+            "nickname": "Mario Guevara",
+            "url": "",
+            "description": "Mario Guevara is a senior correspondent for MundoHispánico.com. He reports on subjects ranging from immigration, crime and politics, to human interest stories at a local and national level. Guevara’s work has been recognized by the National Association of Hispanic Journalists and the National Association of Hispanic Publications. Originally from El Salvador, Guevara began his career at Diario CoLatino and La Prensa Gráfica."
+        },
+        {
+            "id": 229,
+            "slug": "andres-gutierrez",
+            "name": "Andrés Gutierrez",
+            "first_name": "Andrés",
+            "last_name": "Gutierrez",
+            "nickname": "Andres Gutierrez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 156,
+            "slug": "pilarhanes",
+            "name": "Pilar Hanes",
+            "first_name": "Pilar",
+            "last_name": "Hanes",
+            "nickname": "pilarhanes",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 23,
+            "slug": "danielaherrera",
+            "name": "Daniela Herrera",
+            "first_name": "Daniela",
+            "last_name": "Herrera",
+            "nickname": "danielaherrera",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 140,
+            "slug": "kattyjimenez",
+            "name": "Katty Jiménez",
+            "first_name": "Katty",
+            "last_name": "Jiménez",
+            "nickname": "kattyjimenez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 142,
+            "slug": "tiffanyjohnson",
+            "name": "Tiffany Johnson",
+            "first_name": "Tiffany",
+            "last_name": "Johnson",
+            "nickname": "tiffanyjohnson",
+            "url": "",
+            "description": "Sr. Digital Media Planner, Mundo Hispanico"
+        },
+        {
+            "id": 171,
+            "slug": "southern-kitchen",
+            "name": "Southern Kitchen",
+            "first_name": "Southern",
+            "last_name": "Kitchen",
+            "nickname": "Southern Kitchen",
+            "url": "http://www.southernkitchen.com",
+            "description": ""
+        },
+        {
+            "id": 217,
+            "slug": "mimundo-latina",
+            "name": "MiMundo Latina",
+            "first_name": "MiMundo",
+            "last_name": "Latina",
+            "nickname": "MiMundo Latina",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 27,
+            "slug": "hernanlatorre",
+            "name": "Hernan Latorre",
+            "first_name": "Hernán",
+            "last_name": "Latorre",
+            "nickname": "hernanlatorre",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 24,
+            "slug": "jessicamancia",
+            "name": "Jessica Mancía",
+            "first_name": "Jessica",
+            "last_name": "Mancía",
+            "nickname": "jessicamancia",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 203,
+            "slug": "alejandro-manrique",
+            "name": "Alejandro Manrique",
+            "first_name": "Alejandro",
+            "last_name": "Manrique",
+            "nickname": "Alejandro Manrique",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 144,
+            "slug": "mariamarin",
+            "name": "María Marín",
+            "first_name": "María",
+            "last_name": "Marín",
+            "nickname": "mariamarin",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 16,
+            "slug": "miguelmartinez",
+            "name": "Miguel Martínez",
+            "first_name": "Miguel",
+            "last_name": "Martínez",
+            "nickname": "miguelmartinez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 158,
+            "slug": "judithmartinez",
+            "name": "Judith Martinez",
+            "first_name": "Judith",
+            "last_name": "Martinez",
+            "nickname": "judithmartinez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 244,
+            "slug": "alemendoza",
+            "name": "Alexandra Mendoza",
+            "first_name": "Alexandra",
+            "last_name": "Mendoza",
+            "nickname": "alemendoza",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 108,
+            "slug": "agenciamexico",
+            "name": "Agencia México",
+            "first_name": "Agencia",
+            "last_name": "México",
+            "nickname": "agenciamexico",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 130,
+            "slug": "tamaramino",
+            "name": "Tamara Mino",
+            "first_name": "Tamara",
+            "last_name": "Mino",
+            "nickname": "tamaramino",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 12,
+            "slug": "melodymiranda",
+            "name": "Melody Miranda",
+            "first_name": "Melody",
+            "last_name": "Miranda",
+            "nickname": "melodymiranda",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 227,
+            "slug": "mimundomoney",
+            "name": "MiMundo Money",
+            "first_name": "MiMundo",
+            "last_name": "Money",
+            "nickname": "MiMundoMoney",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 148,
+            "slug": "nataliamontoya",
+            "name": "Natalia Montoya",
+            "first_name": "Natalia",
+            "last_name": "Montoya",
+            "nickname": "nataliamontoya",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 161,
+            "slug": "carlosmoreno",
+            "name": "Carlos Moreno",
+            "first_name": "Carlos",
+            "last_name": "Moreno",
+            "nickname": "carlosmoreno",
+            "url": "",
+            "description": "Carlos Moreno es el corresponsal nacional de MundoHispánico.com. El periodista de origen venezolano, migró a Estados Unidos en 2015 en busca de libertad de expresión. Durante su carrera en Estados Unidos, ha trabajado en Telemundo Atlanta y en varias plataformas multimedia, una trayectoria durante la cual ya ha ganado tres premios Emmy por sus reportajes especiales. Moreno ha cubierto numerosas historias exclusivas sobre inmigración, operativos de ICE, la frontera, y los huracánes Irma y María."
+        },
+        {
+            "id": 160,
+            "slug": "mimundomotor",
+            "name": "MiMundo Motor",
+            "first_name": "MiMundo",
+            "last_name": "Motor",
+            "nickname": "mimundomotor",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 17,
+            "slug": "mundohispanico2",
+            "name": "Redacción MundoHispánico",
+            "first_name": "Redacción",
+            "last_name": "MundoHispánico",
+            "nickname": "mundohispanico2",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 127,
+            "slug": "divalizethmurillo",
+            "name": "Divalizeth Murillo",
+            "first_name": "Divalizeth",
+            "last_name": "Murillo",
+            "nickname": "divalizethmurillo",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 191,
+            "slug": "anabel-navarro",
+            "name": "Anabel Navarro Camero",
+            "first_name": "Anabel",
+            "last_name": "Navarro Camero",
+            "nickname": "Anabel Navarro",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 138,
+            "slug": "sylviaoben",
+            "name": "Sylvia Oben",
+            "first_name": "Sylvia",
+            "last_name": "Oben",
+            "nickname": "sylviaoben",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 132,
+            "slug": "antonioordonez",
+            "name": "Antonio Ordoñez",
+            "first_name": "Antonio",
+            "last_name": "Ordóñez",
+            "nickname": "antonioordonez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 31,
+            "slug": "apbyline",
+            "name": "The Associated Press",
+            "first_name": "The Associated",
+            "last_name": "Press",
+            "nickname": "apbyline",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 137,
+            "slug": "oxigenoradio",
+            "name": "Oxigeno Radio",
+            "first_name": "Oxigeno",
+            "last_name": "Radio",
+            "nickname": "oxigenoradio",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 33,
+            "slug": "agenciareforma",
+            "name": "Agencia Reforma",
+            "first_name": "Agencia",
+            "last_name": "Reforma",
+            "nickname": "AgenciaReforma",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 111,
+            "slug": "edgarrendon",
+            "name": "Édgar Rendón",
+            "first_name": "Édgar",
+            "last_name": "Rendón",
+            "nickname": "edgarrendon",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 214,
+            "slug": "estefania-reyes",
+            "name": "Estefanía Reyes",
+            "first_name": "Estefanía",
+            "last_name": "Reyes",
+            "nickname": "Estefania Reyes",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 21,
+            "slug": "carmenrivera",
+            "name": "Carmen Rivera",
+            "first_name": "Carmen",
+            "last_name": "Rivera",
+            "nickname": "carmenrivera",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 14,
+            "slug": "johanesrosello",
+            "name": "Johanes Roselló",
+            "first_name": "Johanes",
+            "last_name": "Roselló",
+            "nickname": "johanesrosello",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 162,
+            "slug": "pattyrubi",
+            "name": "Patty Rubí",
+            "first_name": "Patty",
+            "last_name": "Rubí",
+            "nickname": "pattyrubi",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 205,
+            "slug": "mimundosabor",
+            "name": "MiMundo Sabor",
+            "first_name": "MiMundo",
+            "last_name": "Sabor",
+            "nickname": "MiMundo Sabor",
+            "url": "https://www.facebook.com/MiMundoSaborPage/",
+            "description": ""
+        },
+        {
+            "id": 204,
+            "slug": "rsanchez",
+            "name": "Ricardo Sánchez",
+            "first_name": "Ricardo",
+            "last_name": "Sánchez",
+            "nickname": "rsanchez",
+            "url": "http://jeuzcategui",
+            "description": ""
+        },
+        {
+            "id": 124,
+            "slug": "eduardosanchez",
+            "name": "Eduardo Sanchez-Ubanell",
+            "first_name": "Eduardo",
+            "last_name": "Sánchez-Ubanell",
+            "nickname": "eduardosanchez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 165,
+            "slug": "mariosantana",
+            "name": "Mario Santana",
+            "first_name": "Mario",
+            "last_name": "Santana",
+            "nickname": "mariosantana",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 238,
+            "slug": "alejandrasantorum",
+            "name": "Alejandra Santorum",
+            "first_name": "Alejandra",
+            "last_name": "Santorum",
+            "nickname": "alejandrasantorum",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 112,
+            "slug": "jeremyschwartz",
+            "name": "Jeremy Schwartz",
+            "first_name": "Jeremy",
+            "last_name": "Schwartz",
+            "nickname": "jeremyschwartz",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 101,
+            "slug": "ahorasi",
+            "name": "¡Ahora Sí!",
+            "first_name": "¡Ahora",
+            "last_name": "Sí!",
+            "nickname": "ahorasi",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 102,
+            "slug": "marlonsorto",
+            "name": "Marlon Sorto",
+            "first_name": "Marlon",
+            "last_name": "Sorto",
+            "nickname": "marlonsorto",
+            "url": "https://mundohispanico.com/author/marlonsorto",
+            "description": ""
+        },
+        {
+            "id": 194,
+            "slug": "waynestaats",
+            "name": "Wayne Staats",
+            "first_name": "Wayne",
+            "last_name": "Staats",
+            "nickname": "waynestaats",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 116,
+            "slug": "silviastruthers",
+            "name": "Silvia Struthers",
+            "first_name": "Silvia",
+            "last_name": "Struthers",
+            "nickname": "silviastruthers",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 193,
+            "slug": "alfredo-suarez",
+            "name": "Alfredo Suárez",
+            "first_name": "Alfredo",
+            "last_name": "Suárez",
+            "nickname": "Alfredo Suárez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 190,
+            "slug": "paolasur",
+            "name": "Paola Sur",
+            "first_name": "Paola",
+            "last_name": "Sur",
+            "nickname": "paolasur",
+            "url": "http://jeuzcategui",
+            "description": ""
+        },
+        {
+            "id": 129,
+            "slug": "eloytupayachi",
+            "name": "Eloy Tupayachi",
+            "first_name": "Eloy",
+            "last_name": "Tupayachi",
+            "nickname": "eloytupayachi",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 120,
+            "slug": "rosana-ubanell",
+            "name": "Rosana Ubanell",
+            "first_name": "Rosana",
+            "last_name": "Ubanell",
+            "nickname": "rosana.ubanell",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 166,
+            "slug": "suribe",
+            "name": "Sebastián Uribe",
+            "first_name": "Sebastián",
+            "last_name": "Uribe",
+            "nickname": "suribe",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 13,
+            "slug": "jeuzcategui",
+            "name": "Jesús Uzcátegui",
+            "first_name": "Jesús",
+            "last_name": "Uzcátegui",
+            "nickname": "jeuzcategui",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 103,
+            "slug": "lilianavalenzuela",
+            "name": "Liliana Valenzuela",
+            "first_name": "Liliana",
+            "last_name": "Valenzuela",
+            "nickname": "lilianavalenzuela",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 170,
+            "slug": "ruthvasquez",
+            "name": "Ruth Vasquez",
+            "first_name": "Ruth",
+            "last_name": "Vasquez",
+            "nickname": "Ruthvasquez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 131,
+            "slug": "lourdesvazquez",
+            "name": "Lourdes Vazquez",
+            "first_name": "Lourdes",
+            "last_name": "Vazquez",
+            "nickname": "lourdesvazquez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 30,
+            "slug": "jimmyvega",
+            "name": "Jimmy Vega",
+            "first_name": "Jimmy",
+            "last_name": "Vega",
+            "nickname": "jimmyvega",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 136,
+            "slug": "franciscovillalobos",
+            "name": "Francisco Villalobos",
+            "first_name": "Francisco",
+            "last_name": "Villalobos",
+            "nickname": "franciscovillalobos",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 237,
+            "slug": "fabiola-villarreal-perez",
+            "name": "Fabiola Villarreal Perez",
+            "first_name": "Fabiola",
+            "last_name": "Villarreal Perez",
+            "nickname": "Fabiola Villarreal Perez",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 10,
+            "slug": "danielviotto",
+            "name": "Daniel Viotto",
+            "first_name": "Daniel",
+            "last_name": "Viotto",
+            "nickname": "danielviotto",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 25,
+            "slug": "marcelowheelock",
+            "name": "Marcelo Wheelock",
+            "first_name": "Marcelo",
+            "last_name": "Wheelock",
+            "nickname": "marcelowheelock",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 35,
+            "slug": "wsbtv",
+            "name": "WSB-TV",
+            "first_name": "WSB-TV",
+            "last_name": "WSB-TV",
+            "nickname": "WSBTV",
+            "url": "",
+            "description": ""
+        },
+        {
+            "id": 197,
+            "slug": "militza-zupan",
+            "name": "Mílitza Zúpan",
+            "first_name": "Mílitza",
+            "last_name": "Zúpan",
+            "nickname": "Militza Zupan",
+            "url": "",
+            "description": ""
+        }
+    ]
+}

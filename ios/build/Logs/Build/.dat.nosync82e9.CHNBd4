@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>C692637A-C6D3-4937-9051-8BE2470752F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C692637A-C6D3-4937-9051-8BE2470752F4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>MundoHispanico project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MundoHispanico</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace MundoHispanico with scheme MundoHispanico and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>574597617.43776596</real>
+			<key>timeStoppedRecording</key>
+			<real>574597624.87214601</real>
+			<key>title</key>
+			<string>Building workspace MundoHispanico with scheme MundoHispanico and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>C692637A-C6D3-4937-9051-8BE2470752F4</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

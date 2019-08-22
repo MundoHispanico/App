@@ -1,0 +1,315 @@
+{
+    "menu": [
+        {
+            "id": "ciudad",
+            "slug":"ciudades",
+            "url":"https://mundohispanico.staging.wpengine.com/ciudades?json=1",
+            "label": "Ciudad",
+            "subItems": [
+                {
+                    "slug":"atlanta-georgia",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/atlanta-georgia?json=1",
+                    "label": "Atlanta"
+                },
+                {
+                    "slug":"austin",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/austin?json=1",
+                    "label": "Austin"
+                },
+                {
+                    "slug":"charlotte-north-carolina",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/charlotte-north-carolina?json=1",
+                    "label": "Charlotte"
+                },
+                {
+                    "slug":"dallas-texas",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/dallas-texas?json=1",
+                    "label": "Dallas / Texas"
+                },
+                {
+                    "slug":"houston-texas",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/houston-texas?json=1",
+                    "label": "Houston / Texas"
+                },
+                {
+                    "slug":"los-angeles-california",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/los-angeles-california?json=1",
+                    "label": "Los Angeles / California"
+                },
+                {
+                    "slug":"miami",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/miami?json=1",
+                    "label": "Miami"
+                },
+                {
+                    "slug":"nueva-york",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/nueva-york?json=1",
+                    "label": "Nueva Yorks"
+                },
+                {
+                    "slug":"orlando-florida",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/orlando-florida?json=1",
+                    "label": "Orlando"
+                },
+                {
+                    "slug":"san-antonio-texas",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/san-antonio-texas?json=1",
+                    "label": "San Antonio"
+                },
+                {
+                    "slug":"tampa-florida",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/tampa-florida?json=1",
+                    "label": "Tampa"
+                },
+                {
+                    "slug":"washington-dc",
+                    "url":"https://mundohispanico.staging.wpengine.com/ciudades/washington-dc?json=1",
+                    "label": "Washington DC"
+                }
+            ]
+        },
+        {
+            "id": "noticias",
+            "slug":"noticias",
+            "url":"https://mundohispanico.staging.wpengine.com/noticias?json=1",
+            "label": "Noticias",
+            "subItems": [
+                {
+                    "slug":"nacionales",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/nacionales?json=1",
+                    "label": "Nacionales"
+                },
+                {
+                    "slug":"inmigracion",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/inmigracion?json=1",
+                    "label": "Inmigración"
+                },
+                {
+                    "slug":"internacionales",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/internacionales?json=1",
+                    "label": "Internacionales"
+                },
+                {
+                    "slug":"deportes",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/deportes?json=1",
+                    "label": "Deportes"
+                },
+                {
+                    "slug":"salud-vida",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/salud-vida?json=1",
+                    "label": "Salud + Vida"
+                },
+                {
+                    "slug":"ciencia-y-tecnologia",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/ciencia-y-tecnologia?json=1",
+                    "label": "Ciencia y tecnología"
+                },
+                {
+                    "slug":"educacion",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/educacion?json=1",
+                    "label": "Educación"
+                },
+                {
+                    "slug":"personajes-destacados-videos",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/personajes-destacados-videos?json=1",
+                    "label": "Personajes destacados"
+                },
+                {
+                    "slug":"fotogalerias",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/fotogalerias?json=1",
+                    "label": "Fotogalerías"
+                },
+                {
+                    "slug":"en-papel-noticias",
+                    "url":"https://mundohispanico.staging.wpengine.com/noticias/en-papel-noticias?json=1",
+                    "label": "En papel"
+                },
+                {
+                    "slug":"expertos",
+                    "url":"https://mundohispanico.staging.wpengine.com/expertos?json=1",
+                    "label": "Expertos"
+                },
+                {
+                    "slug":"a-la-mitad",
+                    "url":"https://mundohispanico.staging.wpengine.com/promociones/a-la-mitad?json=1",
+                    "label": "A la mitad"
+                },
+                {
+                    "slug":"promociones",
+                    "url":"https://mundohispanico.staging.wpengine.com/promociones?json=1",
+                    "label": "Promociones"
+                }
+            ]
+        },
+        {
+            "id": "somos-amigos",
+            "slug":"somos-amigos",
+            "url":"https://mundohispanico.staging.wpengine.com/tag/somos-amigos?json=1",
+            "label": "Somos amigos",
+            "subItems": [
+                {
+                    "slug":"leyes-y-medidas-migratorias-somos-amigos",
+                    "url":"https://mundohispanico.staging.wpengine.com/tag/leyes-y-medidas-migratorias-somos-amigos?json=1",
+                    "label": "Noticias sobre inmigración"
+                },
+                {
+                    "slug":"credito-y-dinero-somos-amigos",
+                    "url":"https://mundohispanico.staging.wpengine.com/tag/credito-y-dinero-somos-amigos?json=1",
+                    "label": "Crédito dinero y finanzas personales"
+                },
+                {
+                    "slug":"trabajo-y-desempleo-somos-amigos",
+                    "url":"https://mundohispanico.staging.wpengine.com/tag/trabajo-y-desempleo-somos-amigos?json=1",
+                    "label": "Trabaja, estudia y avanza"
+                },
+                {
+                    "slug":"visas-somos-amigos",
+                    "url":"https://mundohispanico.staging.wpengine.com/tag/visas-somos-amigos?json=1",
+                    "label": "Visas y procesos migratorios"
+                },
+                {
+                    "slug":"como-puedo-somos-amigos",
+                    "url":"https://mundohispanico.staging.wpengine.com/tag/como-puedo-somos-amigos?json=1",
+                    "label": "Pasos para vivir en EE.UU."
+                },
+                {
+                    "slug":"preguntas-al-abogado-somos-amigos",
+                    "url":"https://mundohispanico.staging.wpengine.com/tag/preguntas-al-abogado-somos-amigos?json=1",
+                    "label": "Preguntas al abogado"
+                }
+            ]
+        },
+        {
+            "id": "entretenimiento",
+            "slug":"entretenimiento",
+            "url":"https://mundohispanico.staging.wpengine.com/entretenimiento?json=1",
+            "label": "Entretenimiento",
+            "subItems": [
+                {
+                    "slug":"famosos",
+                    "url":"https://mundohispanico.staging.wpengine.com/entretenimiento/famosos?json=1",
+                    "label": "Famosos"
+                },
+                {
+                    "slug":"enterate",
+                    "url":"https://mundohispanico.staging.wpengine.com/entretenimiento/enterate?json=1",
+                    "label": "Entérate"
+                },
+                {
+                    "slug":"las-mas-bellas",
+                    "url":"https://mundohispanico.staging.wpengine.com/entretenimiento/las-mas-bellas?json=1",
+                    "label": "Las más bellas"
+                },
+                {
+                    "slug":"no-te-lo-pierdas",
+                    "url":"https://mundohispanico.staging.wpengine.com/entretenimiento/no-te-lo-pierdas?json=1",
+                    "label": "No te lo pierdas"
+                },
+                {
+                    "slug":"en-pantalla",
+                    "url":"https://mundohispanico.staging.wpengine.com/entretenimiento/en-pantalla?json=1",
+                    "label": "En Pantalla"
+                },
+                {
+                    "slug":"musica",
+                    "url":"https://mundohispanico.staging.wpengine.com/entretenimiento/musica?json=1",
+                    "label": "Música"
+                },
+                {
+                    "slug":"de-rumba",
+                    "url":"https://mundohispanico.staging.wpengine.com/entretenimiento/de-rumba?json=1",
+                    "label": "De rumba"
+                },
+                {
+                    "slug":"quinceanera",
+                    "url":"https://mundohispanico.staging.wpengine.com/entretenimiento/quinceanera?json=1",
+                    "label": "Quinceanera"
+                }
+            ]
+        },
+        {
+            "id": "dinero",
+            "slug":"dinero",
+            "url":"https://mundohispanico.staging.wpengine.com/dinero?json=1",
+            "label": "Dinero",
+            "subItems": [
+                {
+                    "slug":"money",
+                    "url":"https://mundohispanico.staging.wpengine.com/dinero/money?json=1",
+                    "label": "Money"
+                }
+            ]
+        },
+        {
+            "id": "latina",
+            "slug":"latina",
+            "url":"https://mundohispanico.staging.wpengine.com/latina?json=1",
+            "label": "Latina"
+        },
+        {
+            "id": "auto",
+            "slug":"auto",
+            "url":"https://mundohispanico.staging.wpengine.com/auto?json=1",
+            "label": "Motor"
+        },
+        {
+            "id": "sabor",
+            "slug":"sabor",
+            "url":"https://mundohispanico.staging.wpengine.com/sabor?json=1",
+            "label": "Sabor"
+        },
+        {
+            "id": "videos",
+            "slug":"videos",
+            "url":"https://mundohispanico.staging.wpengine.com/videos?json=1",
+            "label": "Videos",
+            "subItems": [
+                {
+                    "slug":"ultima-hora-locales",
+                    "url":"https://mundohispanico.staging.wpengine.com/videos/ultima-hora-locales?json=1",
+                    "label": "Última hora locales"
+                },
+                {
+                    "slug":"ultima-hora-national",
+                    "url":"https://mundohispanico.staging.wpengine.com/videos/ultima-hora-national?json=1",
+                    "label": "Última hora national"
+                },
+                {
+                    "slug":"en-3-minutos",
+                    "url":"https://mundohispanico.staging.wpengine.com/videos/en-3-minutos?json=1",
+                    "label": "En 3 minutos"
+                },
+                {
+                    "slug":"minuto-de-la-ley",
+                    "url":"https://mundohispanico.staging.wpengine.com/videos/minuto-de-la-ley?json=1",
+                    "label": "Minuto de la ley"
+                },
+                {
+                    "slug":"mundo-legal",
+                    "url":"https://mundohispanico.staging.wpengine.com/videos/mundo-legal?json=1",
+                    "label": "Mundolegal"
+                },
+                {
+                    "slug":"hablemos",
+                    "url":"https://mundohispanico.staging.wpengine.com/videos/hablemos?json=1",
+                    "label": "Hablemos"
+                },
+                {
+                    "slug":"herencia-hispana",
+                    "url":"https://mundohispanico.staging.wpengine.com/videos/herencia-hispana?json=1",
+                    "label": "Herencia Hispana"
+                },
+                {
+                    "slug":"ultima-hora-locales",
+                    "url":"https://mundohispanico.staging.wpengine.com/videos/ultima-hora-locales?json=1",
+                    "label": "ultima-hora-locales"
+                },
+                {
+                    "slug":"personajes-destacados-videos",
+                    "url":"https://mundohispanico.staging.wpengine.com/videos/personajes-destacados-videos?json=1",
+                    "label": "Personajes destacados"
+                }
+            ]
+        }
+    ]
+}

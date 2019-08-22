@@ -1,0 +1,43 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'MundoHispanico' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+pod 'GoogleAppMeasurement', '~> 5.3.0'
+pod 'Firebase/Core', '~> 5.11.0'
+pod 'Firebase/AdMob', '~> 5.11.0'
+pod 'Firebase/Messaging', '~> 5.11.0'
+pod 'Firebase/RemoteConfig', '~> 5.11.0'
+
+  # Pods for MundoHispanico
+
+  target 'MundoHispanico-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+
+    pod 'react-native-idfa', :path => '../node_modules/react-native-idfa'
+
+    pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
+    pod 'react-native-video', :path => '../node_modules/react-native-video'
+
+    pod 'react-native-webview', :path => '../node_modules/react-native-webview'
+
+  end
+
+  target 'MundoHispanicoTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'MundoHispanico-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for MundoHispanico-tvOS
+
+  
+end

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MundoHispanico.iml" filepath="$PROJECT_DIR$/MundoHispanico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-admob/android/react-native-admob.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-admob/android/react-native-admob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-advanced-webview/android/react-native-advanced-webview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-advanced-webview/android/react-native-advanced-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-exit-app/android/react-native-exit-app.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-exit-app/android/react-native-exit-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-firebase/android/react-native-firebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-idfa/android/react-native-idfa.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-idfa/android/react-native-idfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-offline-cache-webview/android/react-native-offline-cache-webview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-offline-cache-webview/android/react-native-offline-cache-webview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-video/android-exoplayer/react-native-video.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-video/android-exoplayer/react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-webview/android/react-native-webview.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-webview/android/react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2324 @@
+{
+    "status": "ok",
+    "count": 12,
+    "count_total": 54725,
+    "pages": 4561,
+    "posts": [
+        {
+            "id": 354381,
+            "type": "post",
+            "slug": "amp-video-test",
+            "url": "https://mundohispanico.staging.wpengine.com/noticias/inmigracion/amp-video-test",
+            "status": "publish",
+            "title": "AMP Video Test",
+            "title_plain": "AMP Video Test",
+            "content": "<p>Por segunda ocasión en menos de un año, el gobierno federal ha perdido la pista de casi 1,500 niños inmigrantes después de colocarlos en hogares de patrocinadores en todo el país, reconocieron funcionarios federales.</p>\n<p><a href=\"http://dhhs.gov\">El Departamento de Salud y Servicios Humanos (HHS)</a> recientemente le dijo al personal del Senado que los gerentes de casos no pudieron encontrar a 1,488 niños después de que hicieron llamadas de seguimiento para verificar su seguridad de abril a junio. Esa cifra representa aproximadamente el 13 por ciento de todos los niños no acompañados que la administración mudó de refugios y hogares de crianza durante ese tiempo.</p>\n<blockquote><p>TE PODRÍA INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/noticias/inmigracion/trump-renovo-muro\">Trump dice que Memorial del 11S renovó su determinación para construir muro fronterizo con México</a></p></blockquote>\n<p>La agencia primero reveló que había perdido la cuenta de 1,475 niños a fines del año pasado, ya que fue criticada en una audiencia en el Senado en abril.</p>\n<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/BJSx564g48A/?utm_source=ig_embed&amp;utm_medium=loading\" data-instgrm-version=\"12\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:640px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\">\n<div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/BJSx564g48A/?utm_source=ig_embed&amp;utm_medium=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> </p>\n<div style=\" display: flex; flex-direction: row; align-items: center;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div>\n<div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\">\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div>\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div>\n</div>\n</div>\n<div style=\"padding: 19% 0;\"></div>\n<div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div>\n<div style=\"padding-top: 8px;\">\n<div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div>\n</div>\n<div style=\"padding: 12.5% 0;\"></div>\n<div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div>\n<div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div>\n</div>\n<div style=\"margin-left: 8px;\">\n<div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div>\n<div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div>\n</div>\n<div style=\"margin-left: auto;\">\n<div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div>\n<div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div>\n<div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div>\n</div>\n</div>\n<p></a> </p>\n<p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/BJSx564g48A/?utm_source=ig_embed&amp;utm_medium=loading\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">Estoy felizzzz! Gracias por todo mi querido Gabriel! #Repost @gabrielsamra with @repostapp ・・・ Mi @jackybrv estoy feliz de ser parte de este gran #cambiodelook gracias por dejarme plasmar mi arte en tu cabello. 🇺🇸 Happy and thankful to be part of this #newlook #firsttimeblonde</a></p>\n<p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">A post shared by <a href=\"https://www.instagram.com/jackybrv/?utm_source=ig_embed&amp;utm_medium=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;\" target=\"_blank\"> Jacky Bracamontes</a> (@jackybrv) on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2016-08-19T14:21:12+00:00\">Aug 19, 2016 at 7:21am PDT</time></p>\n</div>\n</blockquote>\n<p><script async src=\"//www.instagram.com/embed.js\"></script></p>\n<p>Los legisladores habían preguntado a los funcionarios del HHS cómo habían fortalecido las políticas de protección infantil desde que salió a la luz que la agencia había retirado previamente las salvaguardas para evitar que los niños centroamericanos terminaran en manos de los traficantes de personas.</p>\n<p>&#8220;El hecho de que el HHS, que colocó a estos menores no acompañados con patrocinadores, no sabe el paradero de casi 1,500 de ellos es muy preocupante&#8221;, dijo el miércoles el senador republicano Rob Portman de Ohio, presidente del panel. &#8220;Muchos de estos niños son vulnerables a la trata y el abuso, y no asumir la responsabilidad de su seguridad es inaceptable&#8221;.</p>\n<p>El HHS no respondió a múltiples correos electrónicos en busca de comentarios.</p>\n<p>Desde octubre de 2014, el gobierno federal ha colocado a más de 150,000 menores no acompañados con padres u otros patrocinadores adultos que se espera que cuiden a los niños y los ayuden a asistir a la escuela mientras buscan el estatus legal en un tribunal de inmigración.</p>\n<blockquote><p>MIRA TAMBIÉN: <a href=\"https://mundohispanico.staging.wpengine.com/noticias/mexicano-acusado-inocente\">Inmigrante mexicano acusado de matar a universitaria se declara inocente</a></p></blockquote>\n<p>El martes, los miembros de un subcomité del Senado presentaron una legislación bipartidista destinada a exigir que la agencia asuma la responsabilidad del cuidado de los niños migrantes, incluso cuando ya no estén bajo su custodia.</p>\n<blockquote><p>ES TENDENCIA:</p>\n<!--WP embed code PLAYER - Brid Ver.2.8.8 --><script data-cfasync=\"false\" type=\"text/javascript\" src=\"//services.brid.tv/player/build/brid.min.js\"></script><div id=\"Brid_354381_1\" class=\"brid\" style=\"width: 640; height: 360;\" itemprop=\"video\" itemscope itemtype=\"http://schema.org/VideoObject\"></div><script type=\"text/javascript\">$bp(\"Brid_354381_1\", {\"id\":\"14557\",\"video\":\"309655\",\"width\":\"640\",\"height\":\"360\"});</script></blockquote>\n",
+            "excerpt": "<p>Por segunda ocasión en menos de un año, el gobierno federal ha perdido la pista de casi 1,500 niños inmigrantes después de colocarlos en hogares de patrocinadores en todo el país, reconocieron funcionarios federales. El Departamento de Salud y Servicios Humanos (HHS) recientemente le dijo al personal del Senado que los gerentes de casos no [&hellip;]</p>\n",
+            "date": "2018-10-22 00:45:14",
+            "modified": "2018-10-25 11:45:50",
+            "categories": [
+                {
+                    "id": 20,
+                    "slug": "inmigracion",
+                    "title": "Inmigración",
+                    "description": "",
+                    "parent": 9,
+                    "post_count": 4575
+                },
+                {
+                    "id": 9,
+                    "slug": "noticias",
+                    "title": "Noticias",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 20473
+                }
+            ],
+            "tags": [
+                {
+                    "id": 29621,
+                    "slug": "agencia",
+                    "title": "agencia",
+                    "description": "",
+                    "post_count": 4
+                },
+                {
+                    "id": 203364,
+                    "slug": "de-nuevo",
+                    "title": "de nuevo",
+                    "description": "",
+                    "post_count": 2
+                },
+                {
+                    "id": 5305,
+                    "slug": "federal",
+                    "title": "federal",
+                    "description": "",
+                    "post_count": 36
+                },
+                {
+                    "id": 122498,
+                    "slug": "ninos-inmigrantes",
+                    "title": "niños inmigrantes",
+                    "description": "",
+                    "post_count": 29
+                },
+                {
+                    "id": 36334,
+                    "slug": "perdio",
+                    "title": "perdió",
+                    "description": "",
+                    "post_count": 3
+                },
+                {
+                    "id": 29526,
+                    "slug": "que",
+                    "title": "que",
+                    "description": "",
+                    "post_count": 15
+                },
+                {
+                    "id": 203365,
+                    "slug": "rastro",
+                    "title": "rastro",
+                    "description": "",
+                    "post_count": 2
+                },
+                {
+                    "id": 44001,
+                    "slug": "reconoce",
+                    "title": "reconoce",
+                    "description": "",
+                    "post_count": 4
+                }
+            ],
+            "author": {
+                "id": 251,
+                "slug": "rodrigoramirez",
+                "name": "Rodrigo Ramirez",
+                "first_name": "Rodrigo",
+                "last_name": "Ramirez",
+                "nickname": "rodrigoramirez",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish",
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    "",
+                    ""
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "AP"
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "featured_image_x_offset": [
+                    "0"
+                ],
+                "featured_image_y_offset": [
+                    "0.32038834951456285"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.679611650485437"
+                ],
+                "wpb_post_views_count": [
+                    "69"
+                ],
+                "hefo_before": [
+                    "0"
+                ],
+                "hefo_after": [
+                    "0"
+                ],
+                "final_video_embed_code": [
+                    "\r\n<script type=\"text/javascript\" src=\"//services.brid.tv/player/build/brid.min.js\"></script> <div id=\"Brid_40183498\" class=\"brid\" style=\"width:16;height:9;\" > </div> <script type=\"text/javascript\"> $bp(\"Brid_40183498\", {\"id\":\"14404\",\"width\":\"16\",\"height\":\"9\",\"video\":\"309651\"}); </script>\r\n\r\n"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 354258,
+            "type": "post",
+            "slug": "test-page-video",
+            "url": "https://mundohispanico.staging.wpengine.com/noticias/test-page-video",
+            "status": "publish",
+            "title": "Video Test",
+            "title_plain": "Video Test",
+            "content": "<p>De acuerdo a la Asociación Nacional de Educadores (NEA, por sus siglas en inglés) uno de cada 4 estudiantes son testigos o sufren debido a algún trauma antes de cumplir los 4 años. Por eso los médicos y educadores enfatizan la importancia de conversar con sus hijos sobre sus emociones, lo cual puede evitar que los niños sean víctimas de acoso escolar o bullying y hasta que se conviertan en <a href=\"https://www.stopbullying.gov/media/facts/index.html\" target=\"_blank\" rel=\"noopener\">agresores</a>.</p>\n<p>“Nadie nace siendo malo o quiere ser malo generalmente, algo esta pasando algo hay detrás de lo que ocasiona que ellos tengan esta conducta”, dijo Alejandro Zavala-Cervantes, consejero del Hospital Parkland.</p>\n<p>De acuerdo al Centro para el Control y la Prevención de enfermedades (CDC, Centers for Disease Control and Prevention), el acoso escolar se define como un comportamiento agresivo no deseado que implica un desequilibrio del poder real o percibido.</p>\n<p>Zavala-Cervantes indica que es importante comprender e intervenir cuando un niño acosa a los demás.</p>\n<blockquote><p><strong><a href=\"https://mundohispanico.staging.wpengine.com/noticias/aumenta-el-indice-de-suicidios-entre-ninos-y-adolescentes-hospital-en-dallas-intenta-disminuir-el-riesgo\" target=\"_blank\" rel=\"noopener\">RELACIONADO: Aumenta el índice de suicidios entre niños y adolescentes, hospital en Dallas intenta disminuir el riesgo</a></strong></p></blockquote>\n<p>“Esto está ocurriendo porque existen elementos emocionales, existe una emoción que no está siendo canalizada”, dijo Zavala Cervantes, “no está hablando o expresándose adecuadamente”.</p>\n<p>Sin embargo, hace dos años, el Distrito Escolar de Dallas (DISD, por sus siglas en inglés) fue otorgado una subvención para implementar el programa de <a href=\"https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/3068/Dallas%20ISD-%20SEL%20Overview.pdf\" target=\"_blank\" rel=\"noopener\">aprendizaje social y emocional </a>(SEL, por sus siglas en inglés).</p>\n<p>El programa se enfoca en construir habilidades, conocimiento y actitudes que tanto estudiantes como adultos necesitan para tener éxito en la escuela, trabajo y vida. Entre ellas, como contralar sus emociones, el trabajo en equipo, entender a los demás, tomar decisiones positivas y resistencia.</p>\n<p>Incluso, dentro de las aulas hay un centro donde los estudiantes pueden ir a relajarse y tomar parte en diferentes actividades con objetos como una esfera o una botella, los cuales  son utilizados para que el alumno pueda tranquilizarse.</p>\n<p>“La meta es que se calmen para que puedan pensar sobre lo que sucedió y tomar acciones adecuadas”, dijo Jazmín Green, coordinadora de consejería para DISD.</p>\n<p>El programa está en 120 escuelas del distrito.</p>\n<p>Green, quien también tiene dos hijas en el distrito, dice que a percibió el impacto del programa en sus hijas. Ella señala que su niña tiene más confianza para hablar sobre sus sentimientos y que los maestros también están reconociendo las emociones de los estudiantes.</p>\n<p>De acuerdo a Green, desde que comenzaron a implementar el programa, ha habido una disminución en la cantidad de acciones disciplinarias contra los estudiantes.</p>\n<blockquote><p><strong><a href=\"https://mundohispanico.staging.wpengine.com/noticias/inmigracion/ultima-hora-operativo-hotel-fronterizo\" target=\"_blank\" rel=\"noopener\">TE PUEDE INTERESAR: ÚLTIMA HORA: Operativo de inmigración en hotel fronterizo termina con 16 arrestos</a></strong></p></blockquote>\n",
+            "excerpt": "<p>De acuerdo a la Asociación Nacional de Educadores (NEA, por sus siglas en inglés) uno de cada 4 estudiantes son testigos o sufren debido a algún trauma antes de cumplir los 4 años. Por eso los médicos y educadores enfatizan la importancia de conversar con sus hijos sobre sus emociones, lo cual puede evitar que [&hellip;]</p>\n",
+            "date": "2018-09-20 19:43:01",
+            "modified": "2018-09-20 20:49:13",
+            "categories": [
+                {
+                    "id": 9,
+                    "slug": "noticias",
+                    "title": "Noticias",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 20473
+                }
+            ],
+            "tags": [],
+            "author": {
+                "id": 243,
+                "slug": "achilles-frenkel",
+                "name": "Achilles Frenkel",
+                "first_name": "Achilles",
+                "last_name": "Frenkel",
+                "nickname": "achilles.frenkel",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "0"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "what_type_of_video_is_this": [
+                    "anvato"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    ""
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "wpb_post_views_count": [
+                    "25"
+                ],
+                "anvato_featured_video": [
+                    "[anvplayer video=\"4487792\" station=\"CMG MundoHispanico\"]"
+                ],
+                "final_video_embed_code": [
+                    "[anvplayer video=\"4487792\" station=\"CMG MundoHispanico\"]"
+                ]
+            },
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 354244,
+            "type": "post",
+            "slug": "agencia-rastro-ninos-inmigrantes",
+            "url": "https://mundohispanico.staging.wpengine.com/noticias/inmigracion/agencia-rastro-ninos-inmigrantes",
+            "status": "publish",
+            "title": "Agencia federal reconoce que, de nuevo, perdió el rastro de niños inmigrantes",
+            "title_plain": "Agencia federal reconoce que, de nuevo, perdió el rastro de niños inmigrantes",
+            "content": "<p>Por segunda ocasión en menos de un año, el gobierno federal ha perdido la pista de casi 1,500 niños inmigrantes después de colocarlos en hogares de patrocinadores en todo el país, reconocieron funcionarios federales.</p>\n<p><a href=\"http://dhhs.gov\">El Departamento de Salud y Servicios Humanos (HHS)</a> recientemente le dijo al personal del Senado que los gerentes de casos no pudieron encontrar a 1,488 niños después de que hicieron llamadas de seguimiento para verificar su seguridad de abril a junio. Esa cifra representa aproximadamente el 13 por ciento de todos los niños no acompañados que la administración mudó de refugios y hogares de crianza durante ese tiempo.</p>\n<blockquote><p>TE PODRÍA INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/noticias/inmigracion/trump-renovo-muro\">Trump dice que Memorial del 11S renovó su determinación para construir muro fronterizo con México</a></p></blockquote>\n<p>La agencia primero reveló que había perdido la cuenta de 1,475 niños a fines del año pasado, ya que fue criticada en una audiencia en el Senado en abril.</p>\n<p>Los legisladores habían preguntado a los funcionarios del HHS cómo habían fortalecido las políticas de protección infantil desde que salió a la luz que la agencia había retirado previamente las salvaguardas para evitar que los niños centroamericanos terminaran en manos de los traficantes de personas.</p>\n<p>&#8220;El hecho de que el HHS, que colocó a estos menores no acompañados con patrocinadores, no sabe el paradero de casi 1,500 de ellos es muy preocupante&#8221;, dijo el miércoles el senador republicano Rob Portman de Ohio, presidente del panel. &#8220;Muchos de estos niños son vulnerables a la trata y el abuso, y no asumir la responsabilidad de su seguridad es inaceptable&#8221;.</p>\n<p>El HHS no respondió a múltiples correos electrónicos en busca de comentarios.</p>\n<p>Desde octubre de 2014, el gobierno federal ha colocado a más de 150,000 menores no acompañados con padres u otros patrocinadores adultos que se espera que cuiden a los niños y los ayuden a asistir a la escuela mientras buscan el estatus legal en un tribunal de inmigración.</p>\n<blockquote><p>MIRA TAMBIÉN: <a href=\"https://mundohispanico.staging.wpengine.com/noticias/mexicano-acusado-inocente\">Inmigrante mexicano acusado de matar a universitaria se declara inocente</a></p></blockquote>\n<p>El martes, los miembros de un subcomité del Senado presentaron una legislación bipartidista destinada a exigir que la agencia asuma la responsabilidad del cuidado de los niños migrantes, incluso cuando ya no estén bajo su custodia.</p>\n<blockquote><p>ES TENDENCIA:</p>\n<div id='p0'></div><script data-anvp='{&quot;mcp&quot;:&quot;ANV&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;56%&quot;,&quot;video&quot;:&quot;4487126&quot;,&quot;autoplay&quot;:false,&quot;pInstance&quot;:&quot;p0&quot;,&quot;plugins&quot;:{&quot;comscore&quot;:{&quot;clientId&quot;:&quot;6035944&quot;},&quot;dfp&quot;:{&quot;adTagUrl&quot;:&quot;https:\\/\\/googleads.g.doubleclick.net\\/pagead\\/ads?ad_type=video&amp;client=ca-video-pub-4968145218643279&amp;videoad_start_delay=0&amp;description_url=httpwww.google.com&amp;max_ad_duration=40000&amp;adtest=on&quot;}},&quot;accessKey&quot;:&quot;p5orxQw5D9wvGTqlOmhgMc7xwow49q8z&quot;,&quot;token&quot;:&quot;default&quot;}' src='https://w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js'></script></blockquote>\n",
+            "excerpt": "<p>Por segunda ocasión en menos de un año, el gobierno federal ha perdido la pista de casi 1,500 niños inmigrantes después de colocarlos en hogares de patrocinadores en todo el país, reconocieron funcionarios federales. El Departamento de Salud y Servicios Humanos (HHS) recientemente le dijo al personal del Senado que los gerentes de casos no [&hellip;]</p>\n",
+            "date": "2018-09-19 20:26:14",
+            "modified": "2018-09-19 20:27:49",
+            "categories": [
+                {
+                    "id": 20,
+                    "slug": "inmigracion",
+                    "title": "Inmigración",
+                    "description": "",
+                    "parent": 9,
+                    "post_count": 4575
+                },
+                {
+                    "id": 9,
+                    "slug": "noticias",
+                    "title": "Noticias",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 20473
+                }
+            ],
+            "tags": [
+                {
+                    "id": 29621,
+                    "slug": "agencia",
+                    "title": "agencia",
+                    "description": "",
+                    "post_count": 4
+                },
+                {
+                    "id": 203364,
+                    "slug": "de-nuevo",
+                    "title": "de nuevo",
+                    "description": "",
+                    "post_count": 2
+                },
+                {
+                    "id": 5305,
+                    "slug": "federal",
+                    "title": "federal",
+                    "description": "",
+                    "post_count": 36
+                },
+                {
+                    "id": 122498,
+                    "slug": "ninos-inmigrantes",
+                    "title": "niños inmigrantes",
+                    "description": "",
+                    "post_count": 29
+                },
+                {
+                    "id": 36334,
+                    "slug": "perdio",
+                    "title": "perdió",
+                    "description": "",
+                    "post_count": 3
+                },
+                {
+                    "id": 29526,
+                    "slug": "que",
+                    "title": "que",
+                    "description": "",
+                    "post_count": 15
+                },
+                {
+                    "id": 203365,
+                    "slug": "rastro",
+                    "title": "rastro",
+                    "description": "",
+                    "post_count": 2
+                },
+                {
+                    "id": 44001,
+                    "slug": "reconoce",
+                    "title": "reconoce",
+                    "description": "",
+                    "post_count": 4
+                }
+            ],
+            "author": {
+                "id": 31,
+                "slug": "apbyline",
+                "name": "The Associated Press",
+                "first_name": "The Associated",
+                "last_name": "Press",
+                "nickname": "apbyline",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354248,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/800-1.jpeg",
+                    "slug": "800-35",
+                    "title": "800",
+                    "description": "",
+                    "caption": "",
+                    "parent": 354244,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                },
+                {
+                    "id": 354254,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/trump-niños.jpg",
+                    "slug": "trump-ninos",
+                    "title": "trump niños",
+                    "description": "",
+                    "caption": "",
+                    "parent": 354244,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "AP"
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "featured_image_x_offset": [
+                    "0"
+                ],
+                "featured_image_y_offset": [
+                    "0.32038834951456285"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.679611650485437"
+                ],
+                "wpb_post_views_count": [
+                    "52"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 354214,
+            "type": "post",
+            "slug": "trump-renovo-muro",
+            "url": "https://mundohispanico.staging.wpengine.com/noticias/inmigracion/trump-renovo-muro",
+            "status": "publish",
+            "title": "Trump dice que Memorial del 11S renovó su determinación para construir muro fronterizo con México",
+            "title_plain": "Trump dice que Memorial del 11S renovó su determinación para construir muro fronterizo con México",
+            "content": "<p>El presidente estadounidense Donald Trump dice que el memorial del 11 de septiembre en Shanksville, Pensilvania, renovó su determinación de trabajar por la construcción de un muro fronterizo con México</p>\n<p>Trump le dijo a <a href=\"https://thehill.com/hilltv\" target=\"_blank\" rel=\"noopener\">Hill.TV</a> en una entrevista transmitida el miércoles que quedó maravillado por el Memorial Nacional del Vuelo 93 durante una visita la semana pasada&#8230;</p>\n<p>“Ellos construyeron este muro glorioso donde cayó el avión en Pensilvania, Shanksville”, comentó. “Lo que hicieron es increíble. Tienen una serie de muros, digo, es perfecto. Así que estamos presionando muy duramente”.</p>\n<blockquote><p>RELACIONADO: <a href=\"https://mundohispanico.staging.wpengine.com/dinero/trump-insiste-que-mexico-pagara-muro-el-pais-azteca-responde\" target=\"_blank\" rel=\"noopener\">Trump insiste que México pagará muro; el país azteca responde</a></p></blockquote>\n<p><a href=\"https://mundohispanico.staging.wpengine.com/noticias/inmigracion/ultima-hora-trump-advierte-que-vendran-mas-acciones-ejecutivas-contra-inmigracion\" target=\"_blank\" rel=\"noopener\">Trump anticipó a Hill.TV que planea muy pronto nuevas medidas de inmigración</a>. Dijo que va “hacer cosas en las próximas dos semanas que tienen que ver con inmigración, que pienso que los van a impresionar mucho”.</p>\n<p><a href=\"https://mundohispanico.staging.wpengine.com/noticias/inmigracion/ultima-hora-trump-advierte-que-vendran-mas-acciones-ejecutivas-contra-inmigracion\">El mandatario declinó dar más detalles sobre esa nueva estrategia de inmigración</a>.</p>\n<blockquote><p>TE PUEDE INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/auto/conductor-de-bus-escolar-se-desmayo-y-dos-ninos-salvaron-a-todos-video-2\" target=\"_blank\" rel=\"noopener\">Conductor de bus escolar se desmayó y dos niños salvaron a todos (VIDEO)</a></p></blockquote>\n<p>Pese a ser una de sus principales promesas de campaña de cara a las elecciones presidenciales de 2016, Trump no ha conseguido que el Congreso apruebe el gasto de cerca de 25,000 millones de dólares que costaría construir el muro en la frontera sur.</p>\n<p>Hasta ahora sólo 1,600 millones de dólares han sido autorizados por los legisladores en las partidas presupuestales respecto al tema, pero no para la edificación del muro, sino para reparaciones en las ya bardas existentes que presentan daños.</p>\n<blockquote><p>ES TENDENCIA:</p>\n<div id='p1'></div><script data-anvp='{&quot;mcp&quot;:&quot;ANV&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;56%&quot;,&quot;video&quot;:&quot;4487120&quot;,&quot;autoplay&quot;:false,&quot;pInstance&quot;:&quot;p1&quot;,&quot;plugins&quot;:{&quot;comscore&quot;:{&quot;clientId&quot;:&quot;6035944&quot;},&quot;dfp&quot;:{&quot;adTagUrl&quot;:&quot;https:\\/\\/googleads.g.doubleclick.net\\/pagead\\/ads?ad_type=video&amp;client=ca-video-pub-4968145218643279&amp;videoad_start_delay=0&amp;description_url=httpwww.google.com&amp;max_ad_duration=40000&amp;adtest=on&quot;}},&quot;accessKey&quot;:&quot;p5orxQw5D9wvGTqlOmhgMc7xwow49q8z&quot;,&quot;token&quot;:&quot;default&quot;}' src='https://w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js'></script></blockquote>\n",
+            "excerpt": "<p>El presidente estadounidense Donald Trump dice que el memorial del 11 de septiembre en Shanksville, Pensilvania, renovó su determinación de trabajar por la construcción de un muro fronterizo con México Trump le dijo a Hill.TV en una entrevista transmitida el miércoles que quedó maravillado por el Memorial Nacional del Vuelo 93 durante una visita la [&hellip;]</p>\n",
+            "date": "2018-09-19 19:42:14",
+            "modified": "2018-10-25 11:40:50",
+            "categories": [
+                {
+                    "id": 20,
+                    "slug": "inmigracion",
+                    "title": "Inmigración",
+                    "description": "",
+                    "parent": 9,
+                    "post_count": 4575
+                },
+                {
+                    "id": 9,
+                    "slug": "noticias",
+                    "title": "Noticias",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 20473
+                }
+            ],
+            "tags": [
+                {
+                    "id": 192267,
+                    "slug": "11-de-septiembre",
+                    "title": "11 de septiembre",
+                    "description": "",
+                    "post_count": 8
+                },
+                {
+                    "id": 198,
+                    "slug": "donald-trump",
+                    "title": "Donald Trump",
+                    "description": "",
+                    "post_count": 2795
+                },
+                {
+                    "id": 5121,
+                    "slug": "fronterizo",
+                    "title": "fronterizo",
+                    "description": "",
+                    "post_count": 27
+                },
+                {
+                    "id": 85,
+                    "slug": "inmigracion",
+                    "title": "inmigración",
+                    "description": "",
+                    "post_count": 1568
+                },
+                {
+                    "id": 31968,
+                    "slug": "memorial",
+                    "title": "memorial",
+                    "description": "",
+                    "post_count": 2
+                },
+                {
+                    "id": 144,
+                    "slug": "mexico",
+                    "title": "México",
+                    "description": "",
+                    "post_count": 3787
+                },
+                {
+                    "id": 1330,
+                    "slug": "muro",
+                    "title": "muro",
+                    "description": "",
+                    "post_count": 341
+                },
+                {
+                    "id": 2324,
+                    "slug": "pensilvania",
+                    "title": "Pensilvania",
+                    "description": "",
+                    "post_count": 52
+                },
+                {
+                    "id": 203352,
+                    "slug": "shanksville",
+                    "title": "Shanksville",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 203353,
+                    "slug": "vuelo-93",
+                    "title": "Vuelo 93",
+                    "description": "",
+                    "post_count": 1
+                }
+            ],
+            "author": {
+                "id": 31,
+                "slug": "apbyline",
+                "name": "The Associated Press",
+                "first_name": "The Associated",
+                "last_name": "Press",
+                "nickname": "apbyline",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354227,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/7234d6ee-9caa-4e84-9228-af4e0fe05b42.jpg",
+                    "slug": "7234d6ee-9caa-4e84-9228-af4e0fe05b42",
+                    "title": "7234d6ee-9caa-4e84-9228-af4e0fe05b42",
+                    "description": "",
+                    "caption": "",
+                    "parent": 354214,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                },
+                {
+                    "id": 354237,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/Trump_46367.jpg-70e48.jpg",
+                    "slug": "donald-trump-374",
+                    "title": "Donald Trump",
+                    "description": "",
+                    "caption": "",
+                    "parent": 354214,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "AP"
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "wpb_post_views_count": [
+                    "192"
+                ],
+                "featured_image_x_offset": [
+                    "-5.595322517664178e-17"
+                ],
+                "featured_image_y_offset": [
+                    "0.20903954802259886"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.7909604519774012"
+                ],
+                "hefo_before": [
+                    "0"
+                ],
+                "hefo_after": [
+                    "0"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 354177,
+            "type": "post",
+            "slug": "mexicanas-emprendedoras-demostraron-tener-exito",
+            "url": "https://mundohispanico.staging.wpengine.com/dinero/mexicanas-emprendedoras-demostraron-tener-exito",
+            "status": "publish",
+            "title": "3 mexicanas emprendedoras que demostraron que tener éxito es posible",
+            "title_plain": "3 mexicanas emprendedoras que demostraron que tener éxito es posible",
+            "content": "<p>Estas tres emprendedoras mexicanas le apostaron a su creatividad e innovación para crear su propio negocio. Todo surgió con una idea pequeña que fue escalando hasta llevarlas al éxito más allá de las <a href=\"https://mundohispanico.staging.wpengine.com/noticias/churrero-enamora-a-las-mujeres-de-la-frontera-video\">fronteras</a> de <a href=\"https://mundohispanico.staging.wpengine.com/dinero/reportan-reproche-que-le-hizo-canada-a-mexico-por-culpa-de-ee-uu\">México</a>.</p>\n<p>Se convirtieron en líderes de proyectos, que no solo se consolidaron en <a href=\"https://mundohispanico.staging.wpengine.com/dinero/coca-cola-entrar-al-negocio-bebidas-cannabis\">negocios</a> rentables, también aportan un valor agregado al mercado al realizar productos que enaltecen su cultura o que cuidan el medio ambiente.</p>\n<blockquote><p>TE PUEDE INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/latina/en-ajustado-pantalon-rojo-chiquis-rivera-celebra-la-independencia-de-mexico-foto\">En ajustado pantalón rojo Chiquis Rivera celebra la Independencia de México (FOTO)</a></p></blockquote>\n<h2>Mexicanas emprendedoras que alcanzaron el éxito</h2>\n<p>Ellas son tres ejemplo de que sí se puede empezar un negocio propio y alcanzar el éxito, tal como indicó Entrepreneur.</p>\n<p><strong>Amparo Serrano &#8211; <a href=\"http://www.distroller.com/\">Distroller</a></strong></p>\n<p>Esta emprendedora estudió diseño gráfico y cerámica. Al principio, Amparo vendía las piezas que realizaba a sus conocidos. Hasta que finalmente en 2004, se animó a poner en marcha su proyecto comercial.</p>\n<p>Lo primero que hizo fue crear un juego de mesa al que llamó El Picudo. Sin embargo, no tuvo muy buenas ventas, pero esto no la desmotivó. De ahí en adelante, continuó desarrollando otras ideas y diseñando más productos.</p>\n<p>Años más tarde, Amparo tiene unas 400 creaciones cuyos diseños reflejan la cultura con imágenes como la virgen de Guadalupe.</p>\n<p><strong>Gabriela León &#8211; <a href=\"http://www.eviter.com.mx/\">Gresmex</a></strong></p>\n<p>Esta ingeniera bioquímica industrial  creó un producto único en México y lo ha registrado ya en 140 países. Gabriela desarrolló una línea de antisépticos y desinfectantes que ayudan a eliminar virus, bacterias, hongos, gérmenes entre otros microorganismos dañinos para el ser humano. Además, lo logró bajo una fórmula que no daña el planeta.</p>\n<p>Actualmente, su empresa hace más de 43 productos y continúa creciendo  a un ritmo de 22 por ciento anual.</p>\n<p><strong>Guadalupe Gómez &#8211; <a href=\"http://remediosmagicos.com/\">Remedios Mágicosa </a></strong></p>\n<p>El lema de su empresa es “reír es magia”. La creó en el año 2008, en medio de la crisis económica.</p>\n<p>Guadalupa y su marca elaboran regalos únicos, positivos y llenos de humor. Tienen una amplia variedad de productos que va desde dulces hasta souvenirs con los que destacan &#8220;la buena vibra mexicana&#8221;.</p>\n<p>Desde 2013, la empresa trabaja bajo el modelo de franquicia lo que les ha permitido expandirse por todo México. Trabajan actualmente con distribuidores como ¡Ay Güey!.</p>\n<div id='p2'></div><script data-anvp='{&quot;mcp&quot;:&quot;ANV&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;56%&quot;,&quot;video&quot;:&quot;4480763&quot;,&quot;autoplay&quot;:false,&quot;pInstance&quot;:&quot;p2&quot;,&quot;plugins&quot;:{&quot;comscore&quot;:{&quot;clientId&quot;:&quot;6035944&quot;},&quot;dfp&quot;:{&quot;adTagUrl&quot;:&quot;https:\\/\\/googleads.g.doubleclick.net\\/pagead\\/ads?ad_type=video&amp;client=ca-video-pub-4968145218643279&amp;videoad_start_delay=0&amp;description_url=httpwww.google.com&amp;max_ad_duration=40000&amp;adtest=on&quot;}},&quot;accessKey&quot;:&quot;p5orxQw5D9wvGTqlOmhgMc7xwow49q8z&quot;,&quot;token&quot;:&quot;default&quot;}' src='https://w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js'></script>\n",
+            "excerpt": "<p>Estas tres emprendedoras mexicanas le apostaron a su creatividad e innovación para crear su propio negocio. Todo surgió con una idea pequeña que fue escalando hasta llevarlas al éxito más allá de las fronteras de México. Se convirtieron en líderes de proyectos, que no solo se consolidaron en negocios rentables, también aportan un valor agregado [&hellip;]</p>\n",
+            "date": "2018-09-19 19:08:34",
+            "modified": "2018-10-26 08:16:01",
+            "categories": [
+                {
+                    "id": 8627,
+                    "slug": "dinero",
+                    "title": "Dinero",
+                    "description": "Finanzas familiars y personales.",
+                    "parent": 0,
+                    "post_count": 6194
+                }
+            ],
+            "tags": [
+                {
+                    "id": 203344,
+                    "slug": "amparo-serrano",
+                    "title": "amparo serrano",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 203347,
+                    "slug": "distroller",
+                    "title": "distroller",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 34352,
+                    "slug": "emprendedoras",
+                    "title": "Emprendedoras",
+                    "description": "",
+                    "post_count": 3
+                },
+                {
+                    "id": 203343,
+                    "slug": "gabriela-leon",
+                    "title": "gabriela león",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 203345,
+                    "slug": "guadalupe-gomez",
+                    "title": "guadalupe gómez",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 7505,
+                    "slug": "mexicanas",
+                    "title": "mexicanas",
+                    "description": "",
+                    "post_count": 25
+                },
+                {
+                    "id": 144,
+                    "slug": "mexico",
+                    "title": "México",
+                    "description": "",
+                    "post_count": 3787
+                },
+                {
+                    "id": 9948,
+                    "slug": "negocio",
+                    "title": "negocio",
+                    "description": "",
+                    "post_count": 86
+                },
+                {
+                    "id": 8860,
+                    "slug": "productos",
+                    "title": "productos",
+                    "description": "",
+                    "post_count": 51
+                },
+                {
+                    "id": 203346,
+                    "slug": "remedios-magicos",
+                    "title": "remedios mágicos",
+                    "description": "",
+                    "post_count": 1
+                }
+            ],
+            "author": {
+                "id": 182,
+                "slug": "mimundodinero",
+                "name": "MiMundo Dinero",
+                "first_name": "MiMundo Dinero",
+                "last_name": "",
+                "nickname": "MiMundoDinero",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354207,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/emprendedoras-mexicanas.jpg",
+                    "slug": "emprendedoras-mexicanas",
+                    "title": "emprendedoras mexicanas",
+                    "description": "",
+                    "caption": "",
+                    "parent": 354177,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "featured_image_x_offset": [
+                    "0"
+                ],
+                "featured_image_y_offset": [
+                    "0.013888888888888794"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.9722222222222222"
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "anvato"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "FB Gabriela León / fundacionamparoserrano.org / Entrepreneur"
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    ""
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "anvato_featured_video": [
+                    "<script type=\"text/javascript\" src=\"//services.brid.tv/player/build/brid.min.js\"></script> <div id=\"Brid_40556096\" class=\"brid\" style=\"width:16;height:9;\" > </div> <script type=\"text/javascript\"> $bp(\"Brid_40556096\", {\"id\":\"14914\",\"width\":\"16\",\"height\":\"9\",\"video\":\"312996\"}); </script>"
+                ],
+                "final_video_embed_code": [
+                    "<script type=\"text/javascript\" src=\"//services.brid.tv/player/build/brid.min.js\"></script> <div id=\"Brid_40556096\" class=\"brid\" style=\"width:16;height:9;\" > </div> <script type=\"text/javascript\"> $bp(\"Brid_40556096\", {\"id\":\"14914\",\"width\":\"16\",\"height\":\"9\",\"video\":\"312996\"}); </script>"
+                ],
+                "wpb_post_views_count": [
+                    "101"
+                ],
+                "hefo_before": [
+                    "0"
+                ],
+                "hefo_after": [
+                    "0"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 353999,
+            "type": "post",
+            "slug": "mexicano-acusado-inocente",
+            "url": "https://mundohispanico.staging.wpengine.com/noticias/mexicano-acusado-inocente",
+            "status": "publish",
+            "title": "Inmigrante mexicano acusado de matar a universitaria se declara inocente",
+            "title_plain": "Inmigrante mexicano acusado de matar a universitaria se declara inocente",
+            "content": "<p>Un inmigrante mexicano acusado de secuestrar y matar a puñaladas a una joven universitaria en Iowa se declaró inocente de homicidio premeditado.</p>\n<p>Cristhian Bahena Rivera se declaró inocente en la corte del condado Poweshiek en Montezuma, Iowa.</p>\n<p>Al jornalero, quien además está acusado de permanecer sin permiso legal en Estados Unidos, <a href=\"https://mundohispanico.staging.wpengine.com/noticias/mexicano-indocumentado-secuestro-mato-mollie-tibbetts\" target=\"_blank\" rel=\"noopener\">se le acusa de matar a Mollie Tibbetts, de 20 años y estudiante de la Universidad de Iowa</a>, quien desapareció luego que salió a correr el 18 de julio.</p>\n<blockquote><p>RELACIONADO: <a href=\"https://mundohispanico.staging.wpengine.com/noticias/cristhian-bahena-rivera-asesino-confeso-de-mollie-tibbetts-lo-que-se-sabe\" target=\"_blank\" rel=\"noopener\">Cristhian Bahena Rivera: asesino confeso de Mollie Tibbetts, lo que se sabe</a></p></blockquote>\n<p>Investigadores hallaron el cadáver de Tibbetts en un campo de maíz un mes después de su desaparición. <a href=\"https://mundohispanico.staging.wpengine.com/noticias/autopsia-mollie-tibbetts-fue-asesinada-con-heridas-punzantes\" target=\"_blank\" rel=\"noopener\">Un médico forense determinó que la joven fue asesinada a puñaladas</a>.</p>\n<p>Rivera, de 24 años, trabajaba en una granja de lácteos a unos kilómetros del lugar donde Tibbetts desapareció. Su juicio está programado para el 16 de abril.</p>\n<blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\">\n<p lang=\"en\" dir=\"ltr\">WATCH: 24-year-old Cristhian Bahena Rivera is appearing in court for the murder of 20-year-old Iowa student Mollie Tibbetts. <a href=\"https://t.co/XDXHT1kSnq\">https://t.co/XDXHT1kSnq</a> <a href=\"https://t.co/Pz1S4CnViy\">pic.twitter.com/Pz1S4CnViy</a></p>\n<p>&mdash; CBS News (@CBSNews) <a href=\"https://twitter.com/CBSNews/status/1042422515556130816?ref_src=twsrc%5Etfw\">September 19, 2018</a></p></blockquote>\n<p><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<p>El presidente <a href=\"https://mundohispanico.staging.wpengine.com/noticias/trump-usa-muerte-estudiante\" target=\"_blank\" rel=\"noopener\">Donald Trump aprovechó el arresto de Bahena Rivera</a> para calificar las leyes de inmigración de Estados Unidos como “una desgracia” que sólo se resolverá al elegir a más congresistas republicanos.</p>\n",
+            "excerpt": "<p>Un inmigrante mexicano acusado de secuestrar y matar a puñaladas a una joven universitaria en Iowa se declaró inocente de homicidio premeditado. Cristhian Bahena Rivera se declaró inocente en la corte del condado Poweshiek en Montezuma, Iowa. Al jornalero, quien además está acusado de permanecer sin permiso legal en Estados Unidos, se le acusa de [&hellip;]</p>\n",
+            "date": "2018-09-19 19:03:42",
+            "modified": "2018-09-20 20:27:58",
+            "categories": [
+                {
+                    "id": 19,
+                    "slug": "nacionales",
+                    "title": "Nacionales",
+                    "description": "",
+                    "parent": 9,
+                    "post_count": 10553
+                },
+                {
+                    "id": 9,
+                    "slug": "noticias",
+                    "title": "Noticias",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 20473
+                }
+            ],
+            "tags": [
+                {
+                    "id": 180978,
+                    "slug": "cristhian-bahena-rivera",
+                    "title": "Cristhian Bahena Rivera",
+                    "description": "",
+                    "post_count": 6
+                },
+                {
+                    "id": 198,
+                    "slug": "donald-trump",
+                    "title": "Donald Trump",
+                    "description": "",
+                    "post_count": 2795
+                },
+                {
+                    "id": 1354,
+                    "slug": "homicidio",
+                    "title": "homicidio",
+                    "description": "",
+                    "post_count": 175
+                },
+                {
+                    "id": 1708,
+                    "slug": "inmigrante",
+                    "title": "inmigrante",
+                    "description": "",
+                    "post_count": 278
+                },
+                {
+                    "id": 33506,
+                    "slug": "inocente",
+                    "title": "inocente",
+                    "description": "",
+                    "post_count": 6
+                },
+                {
+                    "id": 809,
+                    "slug": "iowa",
+                    "title": "Iowa",
+                    "description": "",
+                    "post_count": 35
+                },
+                {
+                    "id": 1348,
+                    "slug": "mexicano",
+                    "title": "mexicano",
+                    "description": "",
+                    "post_count": 337
+                },
+                {
+                    "id": 180977,
+                    "slug": "mollie-tibbetts",
+                    "title": "Mollie Tibbetts",
+                    "description": "",
+                    "post_count": 6
+                },
+                {
+                    "id": 110824,
+                    "slug": "montezuma",
+                    "title": "Montezuma",
+                    "description": "",
+                    "post_count": 2
+                },
+                {
+                    "id": 203133,
+                    "slug": "universitaria",
+                    "title": "universitaria",
+                    "description": "",
+                    "post_count": 1
+                }
+            ],
+            "author": {
+                "id": 17,
+                "slug": "mundohispanico2",
+                "name": "Redacción MundoHispánico",
+                "first_name": "Redacción",
+                "last_name": "MundoHispánico",
+                "nickname": "mundohispanico2",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354013,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/AP18240133561708-1.jpg",
+                    "slug": "eeuu-estudiante-asesinada-2",
+                    "title": "EEUU-ESTUDIANTE ASESINADA",
+                    "description": "",
+                    "caption": "The Associated Press",
+                    "parent": 353999,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "featured_image_x_offset": [
+                    "0"
+                ],
+                "featured_image_y_offset": [
+                    "0"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "1.0000000000000002"
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "The Associated Press"
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "wpb_post_views_count": [
+                    "217"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 354186,
+            "type": "post",
+            "slug": "lopez-obrador-promete-ayuda-a-damnificados-del-terremoto-de-2017-y-de-siempre",
+            "url": "https://mundohispanico.staging.wpengine.com/noticias/lopez-obrador-promete-ayuda-a-damnificados-del-terremoto-de-2017-y-de-siempre",
+            "status": "publish",
+            "title": "López Obrador promete ayuda a damnificados del terremoto de 2017 y “de siempre”",
+            "title_plain": "López Obrador promete ayuda a damnificados del terremoto de 2017 y “de siempre”",
+            "content": "<p>El presidente electo de México, Andrés Manuel López Obrador, afirmó en el primer aniversario del <a href=\"https://mundohispanico.staging.wpengine.com/noticias/ultima-hora-fuerte-sismo-remece-ciudad-de-mexico-fotos\" target=\"_blank\" rel=\"noopener\">trágico terremoto del 19 de septiembre de 2017</a> que su gobierno ayudará “a todos los damnificados, de ahora y de siempre”.</p>\n<p>“Vamos atender a todos los damnificados, los de ahora y los de siempre”, aseguró el líder del <a href=\"https://morena.si/\" target=\"_blank\" rel=\"noopener\">Movimiento Regeneración Nacional</a> (Morena) en un mitin en Ixtepec, en el sureño estado de Oaxaca.</p>\n<p>En su discurso, López Obrador aseguró que se llevarán a cabo “acciones específicas” para apoyar a los damnificados de los sismos de septiembre del 2017 en México, que sumaron 471 muertos.</p>\n<blockquote><p>RELACIONADO: <a href=\"https://mundohispanico.staging.wpengine.com/ciudades/san-antonio-texas/familia-victima-de-terremoto-en-mexico-recibe-llaves-de-su-nueva-casa-video\" target=\"_blank\" rel=\"noopener\">Familia víctima de terremoto en México recibe llaves de su nueva casa (VIDEO)</a></p></blockquote>\n<p>Pero también anunció otras acciones que se realizarán en Oaxaca, uno de los estados más pobres del país, pues sus habitantes son “los damnificados de siempre, los de los terremotos, pero también del régimen de opresión e injusticia que se ha padecido por décadas y siglos”.</p>\n<blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\">\n<p lang=\"es\" dir=\"ltr\">📹 López Obrador presenta en Oaxaca lineamientos para la reconstrucción por sismos. <a href=\"https://twitter.com/hashtag/19S?src=hash&amp;ref_src=twsrc%5Etfw\">#19S</a> <a href=\"https://t.co/82M6lcfpyE\">https://t.co/82M6lcfpyE</a> <a href=\"https://t.co/mpAzFn9lWU\">pic.twitter.com/mpAzFn9lWU</a></p>\n<p>&mdash; Once Noticias 📱📺 (@OnceNoticiasTV) <a href=\"https://twitter.com/OnceNoticiasTV/status/1042510640693182465?ref_src=twsrc%5Etfw\">September 19, 2018</a></p></blockquote>\n<p><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<p>Indicó que dentro de su plan de ayuda se contratarán solo en Oaxaca a 97,331 jóvenes como aprendices en empresas, y se darán cerca de 18,000 becas universitarias. Añadió que se mantendrán los programas de ayuda social y se beneficiará a más de 316,000 adultos mayores.</p>\n<blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\">\n<p lang=\"es\" dir=\"ltr\">Hoy acompañamos <a href=\"https://twitter.com/lopezobrador_?ref_src=twsrc%5Etfw\">@lopezobrador_</a> , Presidente Electo de México, en su visita a nuestro <a href=\"https://twitter.com/hashtag/Oaxaca?src=hash&amp;ref_src=twsrc%5Etfw\">#Oaxaca</a>. Expuso el plan de reconstrucción para las zonas afectadas por los sismos, los apoyos a jóvenes oaxaqueños con becas y programas sociales especiales para las personas más necesitadas. <a href=\"https://t.co/MGUqu8dtFZ\">pic.twitter.com/MGUqu8dtFZ</a></p>\n<p>&mdash; Irma Juan Carlos (@irmajuancarlos) <a href=\"https://twitter.com/irmajuancarlos/status/1042490050251038720?ref_src=twsrc%5Etfw\">September 19, 2018</a></p></blockquote>\n<p><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<p>En total, el próximo año se destinará una inversión pública de 35,258 millones de pesos (unos 1,875 millones de dólares) en Oaxaca, agregó.</p>\n<blockquote><p>TE PUEDE INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/noticias/inmigracion/ultima-hora-trump-advierte-que-vendran-mas-acciones-ejecutivas-contra-inmigracion\" target=\"_blank\" rel=\"noopener\">ÚLTIMA HORA: Trump advierte que vendrán más acciones ejecutivas contra inmigración</a></p></blockquote>\n<p>López Obrador, quien asumirá la presidencia de México el 1 de diciembre, expresó sus condolencias “a los familiares de los que perdieron la vida en los sismos, en los terremotos”.</p>\n<blockquote class=\"twitter-tweet\" data-width=\"550\" data-dnt=\"true\">\n<p lang=\"es\" dir=\"ltr\">En Juchitán, Oaxaca, una de las zonas más afectadas por los sismos del año pasado, Andrés Manuel López Obrador habló acerca del plan de reconstrucción nacional en su gobierno. <a href=\"https://t.co/DEac4VhiL4\">pic.twitter.com/DEac4VhiL4</a></p>\n<p>&mdash; El Economista (@eleconomista) <a href=\"https://twitter.com/eleconomista/status/1042475950498361344?ref_src=twsrc%5Etfw\">September 19, 2018</a></p></blockquote>\n<p><script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>\n<p>“No solo a las víctimas de los sismos del Istmo (de Tehuantepec), sino de todo México. Nuestro pesar, nuestra tristeza, pero también la esperanza de que estamos luchando por una sociedad mejor. ¡Que viva Oaxaca! ¡Viva México!”, exclamó.</p>\n<p>Este miércoles se recordó en México el terremoto de magnitud 7.1 del 19 de septiembre de 2017, que dejó 369 muertos, y se sumó al movimiento telúrico de 8.2 con epicentro en Chiapas que causó 98 víctimas mortales, la mayoría de ellas en Oaxaca.</p>\n<p>En distintas circunstancias, otras cuatro personas perdieron la vida el 23 de septiembre, cuando un sismo de 6.1 en el sur de México disparó la alerta sísmica en la capital.</p>\n<blockquote><p>ES TENDENCIA:</p>\n<div id='p3'></div><script data-anvp='{&quot;mcp&quot;:&quot;ANV&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;56%&quot;,&quot;video&quot;:&quot;4487120&quot;,&quot;autoplay&quot;:false,&quot;pInstance&quot;:&quot;p3&quot;,&quot;plugins&quot;:{&quot;comscore&quot;:{&quot;clientId&quot;:&quot;6035944&quot;},&quot;dfp&quot;:{&quot;adTagUrl&quot;:&quot;https:\\/\\/googleads.g.doubleclick.net\\/pagead\\/ads?ad_type=video&amp;client=ca-video-pub-4968145218643279&amp;videoad_start_delay=0&amp;description_url=httpwww.google.com&amp;max_ad_duration=40000&amp;adtest=on&quot;}},&quot;accessKey&quot;:&quot;p5orxQw5D9wvGTqlOmhgMc7xwow49q8z&quot;,&quot;token&quot;:&quot;default&quot;}' src='https://w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js'></script></blockquote>\n",
+            "excerpt": "<p>El presidente electo de México, Andrés Manuel López Obrador, afirmó en el primer aniversario del trágico terremoto del 19 de septiembre de 2017 que su gobierno ayudará “a todos los damnificados, de ahora y de siempre”. “Vamos atender a todos los damnificados, los de ahora y los de siempre”, aseguró el líder del Movimiento Regeneración [&hellip;]</p>\n",
+            "date": "2018-09-19 18:56:42",
+            "modified": "2018-09-19 18:56:44",
+            "categories": [
+                {
+                    "id": 21,
+                    "slug": "internacionales",
+                    "title": "Internacionales",
+                    "description": "",
+                    "parent": 9,
+                    "post_count": 4829
+                },
+                {
+                    "id": 9,
+                    "slug": "noticias",
+                    "title": "Noticias",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 20473
+                }
+            ],
+            "tags": [
+                {
+                    "id": 5856,
+                    "slug": "2017",
+                    "title": "2017",
+                    "description": "",
+                    "post_count": 40
+                },
+                {
+                    "id": 36947,
+                    "slug": "adultos-mayores",
+                    "title": "adultos mayores",
+                    "description": "",
+                    "post_count": 6
+                },
+                {
+                    "id": 41184,
+                    "slug": "andres-manuel-lopez-obrador",
+                    "title": "Andrés Manuel López Obrador",
+                    "description": "",
+                    "post_count": 65
+                },
+                {
+                    "id": 3973,
+                    "slug": "becas",
+                    "title": "becas",
+                    "description": "",
+                    "post_count": 27
+                },
+                {
+                    "id": 591,
+                    "slug": "chiapas",
+                    "title": "Chiapas",
+                    "description": "",
+                    "post_count": 33
+                },
+                {
+                    "id": 3986,
+                    "slug": "damnificados",
+                    "title": "Damnificados",
+                    "description": "",
+                    "post_count": 55
+                },
+                {
+                    "id": 538,
+                    "slug": "jovenes",
+                    "title": "jóvenes",
+                    "description": "",
+                    "post_count": 96
+                },
+                {
+                    "id": 144,
+                    "slug": "mexico",
+                    "title": "México",
+                    "description": "",
+                    "post_count": 3787
+                },
+                {
+                    "id": 2622,
+                    "slug": "oaxaca",
+                    "title": "Oaxaca",
+                    "description": "",
+                    "post_count": 51
+                },
+                {
+                    "id": 3543,
+                    "slug": "terremoto",
+                    "title": "terremoto",
+                    "description": "",
+                    "post_count": 127
+                }
+            ],
+            "author": {
+                "id": 32,
+                "slug": "agenciaefe",
+                "name": "Agencia EFE",
+                "first_name": "Agencia",
+                "last_name": "EFE",
+                "nickname": "AgenciaEFE",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354192,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/545169_3qp3psbkul.jpg",
+                    "slug": "amlo-guadalajara",
+                    "title": "AMLO GUADALAJARA",
+                    "description": "",
+                    "caption": "Agencia El Universal",
+                    "parent": 354186,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "featured_image_x_offset": [
+                    "-5.595322517664178e-17"
+                ],
+                "featured_image_y_offset": [
+                    "0.10451977401129943"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.7909604519774012"
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "Agencia El Universal"
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "wpb_post_views_count": [
+                    "51"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 354155,
+            "type": "post",
+            "slug": "sentencia-robo-identidad",
+            "url": "https://mundohispanico.staging.wpengine.com/noticias/sentencia-robo-identidad",
+            "status": "publish",
+            "title": "Juez sentencia a 37 meses de prisión a hombre que robó identidad a discapacitado por 17 años",
+            "title_plain": "Juez sentencia a 37 meses de prisión a hombre que robó identidad a discapacitado por 17 años",
+            "content": "<p>Un hombre fue sentenciado a tres años de prisión por cargos de fraude y robo de identidad, luego de utilizar de manera ilegal los beneficios de un discapacitado de <a href=\"https://es.medicare.gov/\" target=\"_blank\" rel=\"noopener\">Medicare</a> durante 17 años.</p>\n<p>José Agosto, de 51 años, fue sentenciado por el juez <a href=\"http://www.mad.uscourts.gov/worcester/hillman.htm\" target=\"_blank\" rel=\"noopener\">Timothy S. Hillman</a>, del tribunal federal de distrito de Massachusetts, a 37 meses en la cárcel, tres años de libertad supervisada y a pagar 11,036 dólares por concepto de restitución, informó el <a href=\"https://www.justice.gov/\" target=\"_blank\" rel=\"noopener\">Departamento de Justicia</a>.</p>\n<p>En enero de 2018, Agosto se declaró culpable de cuatro cargos de fraude electrónico, cuatro cargos de uso indebido de un número de Seguridad Social, tres cargos de hacer declaraciones falsas relacionadas con servicios de atención médica y cinco cargos de robo de identidad agravado, según un <a href=\"https://www.justice.gov/usao-ma/pr/worcester-man-sentenced-fraud-and-identity-theft\" target=\"_blank\" rel=\"noopener\">comunicado</a>.</p>\n<blockquote><p>RELACIONADO: <a href=\"https://mundohispanico.staging.wpengine.com/dinero/robo-de-identidad-mexicano-asumio-identidad-de-un-estadounidense-por-37-anos-video\" target=\"_blank\" rel=\"noopener\">Robo de identidad: mexicano asumió identidad de un estadounidense por 37 años (VIDEO)</a></p></blockquote>\n<p>Agosto, quien fue acusado el 9 de agosto de 2017 y ha estado bajo custodia desde entonces, admitió que comenzó a vivir bajo el nombre de otra persona para evitar las consecuencias de una orden de arresto.</p>\n<p>También reconoció que usó el nombre de la víctima y otra información de identificación personal para obtener tarjetas de reemplazo de Seguridad Social, licencias de conducir y cuentas bancarias.</p>\n<p>De igual manera, Agosto solicitó tratamiento médico a nombre de la víctima y, al hacerlo, los proveedores médicos presentaron más de 148,000 dólares en reclamos a Medicare, aun cuando él no era en realidad beneficiario del programa. Incluso, ejecutó pagarés a nombre de la víctima y luego incumplió su pago.</p>\n<blockquote><p>TE PUEDE INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/noticias/inmigracion/ultima-hora-trump-advierte-que-vendran-mas-acciones-ejecutivas-contra-inmigracion\" target=\"_blank\" rel=\"noopener\">ÚLTIMA HORA: Trump advierte que vendrán más acciones ejecutivas contra inmigración</a></p></blockquote>\n<p>Con todas estas situaciones fraudulentas, Agosto puso en peligro la continua recepción de beneficios de Seguridad Social y Medicare de la víctima, así como su calificación crediticia.</p>\n<p>Para no ser delatado ante las autoridades, Agosto dejó una serie de mensajes de voz para intimidar a la víctima, en los cuales amenazó con matar a varios miembros de su familia en lo que llamó una “masacre”.</p>\n<p>“Voy a empezar a matar a toda tu familia uno a uno. Comenzaré por matar a tu madre, mataré a tu hermana, y luego el último serás tú”, se escucha decir a Agosto en un mensaje.</p>\n<blockquote><p>ES TENDENCIA:</p>\n<div id='p4'></div><script data-anvp='{&quot;mcp&quot;:&quot;ANV&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;56%&quot;,&quot;video&quot;:&quot;4487120&quot;,&quot;autoplay&quot;:false,&quot;pInstance&quot;:&quot;p4&quot;,&quot;plugins&quot;:{&quot;comscore&quot;:{&quot;clientId&quot;:&quot;6035944&quot;},&quot;dfp&quot;:{&quot;adTagUrl&quot;:&quot;https:\\/\\/googleads.g.doubleclick.net\\/pagead\\/ads?ad_type=video&amp;client=ca-video-pub-4968145218643279&amp;videoad_start_delay=0&amp;description_url=httpwww.google.com&amp;max_ad_duration=40000&amp;adtest=on&quot;}},&quot;accessKey&quot;:&quot;p5orxQw5D9wvGTqlOmhgMc7xwow49q8z&quot;,&quot;token&quot;:&quot;default&quot;}' src='https://w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js'></script></blockquote>\n",
+            "excerpt": "<p>Un hombre fue sentenciado a tres años de prisión por cargos de fraude y robo de identidad, luego de utilizar de manera ilegal los beneficios de un discapacitado de Medicare durante 17 años. José Agosto, de 51 años, fue sentenciado por el juez Timothy S. Hillman, del tribunal federal de distrito de Massachusetts, a 37 [&hellip;]</p>\n",
+            "date": "2018-09-19 18:08:20",
+            "modified": "2018-09-19 18:16:15",
+            "categories": [
+                {
+                    "id": 19,
+                    "slug": "nacionales",
+                    "title": "Nacionales",
+                    "description": "",
+                    "parent": 9,
+                    "post_count": 10553
+                },
+                {
+                    "id": 9,
+                    "slug": "noticias",
+                    "title": "Noticias",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 20473
+                }
+            ],
+            "tags": [
+                {
+                    "id": 5207,
+                    "slug": "departamento-de-justicia",
+                    "title": "Departamento de Justicia",
+                    "description": "",
+                    "post_count": 50
+                },
+                {
+                    "id": 32590,
+                    "slug": "discapacitado",
+                    "title": "discapacitado",
+                    "description": "",
+                    "post_count": 3
+                },
+                {
+                    "id": 1055,
+                    "slug": "fraude",
+                    "title": "Fraude",
+                    "description": "",
+                    "post_count": 146
+                },
+                {
+                    "id": 203316,
+                    "slug": "jose-agosto",
+                    "title": "José Agosto",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 4417,
+                    "slug": "masacre",
+                    "title": "masacre",
+                    "description": "",
+                    "post_count": 97
+                },
+                {
+                    "id": 5403,
+                    "slug": "massachusetts",
+                    "title": "Massachusetts",
+                    "description": "",
+                    "post_count": 38
+                },
+                {
+                    "id": 32634,
+                    "slug": "medicare",
+                    "title": "Medicare",
+                    "description": "",
+                    "post_count": 8
+                },
+                {
+                    "id": 268,
+                    "slug": "prision",
+                    "title": "prisión",
+                    "description": "",
+                    "post_count": 140
+                },
+                {
+                    "id": 4530,
+                    "slug": "robo-de-identidad",
+                    "title": "robo de identidad",
+                    "description": "",
+                    "post_count": 16
+                },
+                {
+                    "id": 35595,
+                    "slug": "seguridad-social",
+                    "title": "Seguridad Social",
+                    "description": "",
+                    "post_count": 4
+                }
+            ],
+            "author": {
+                "id": 17,
+                "slug": "mundohispanico2",
+                "name": "Redacción MundoHispánico",
+                "first_name": "Redacción",
+                "last_name": "MundoHispánico",
+                "nickname": "mundohispanico2",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354168,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/GettyImages-811595122.jpg",
+                    "slug": "medicare-security-to-be-reviewed-after-patient-details-sold-on-darknet",
+                    "title": "Medicare Security To Be Reviewed After Patient Details Sold On Darknet",
+                    "description": "",
+                    "caption": "Getty Images",
+                    "parent": 354155,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "Getty Images"
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "featured_image_x_offset": [
+                    "-5.595322517664178e-17"
+                ],
+                "featured_image_y_offset": [
+                    "0.080851134958045"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.7909604519774012"
+                ],
+                "wpb_post_views_count": [
+                    "123"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 354148,
+            "type": "post",
+            "slug": "trump-consuela-a-damnificados-por-florence-con-hot-dogs-y-polemica-frase",
+            "url": "https://mundohispanico.staging.wpengine.com/noticias/trump-consuela-a-damnificados-por-florence-con-hot-dogs-y-polemica-frase",
+            "status": "publish",
+            "title": "Trump consuela a damnificados por Florence con &#8216;hot dogs&#8217; y polémica frase",
+            "title_plain": "Trump consuela a damnificados por Florence con &#8216;hot dogs&#8217; y polémica frase",
+            "content": "<p>El presidente <a href=\"http://twitter.com/realDonaldTrump\" target=\"_blank\" rel=\"noopener\">Donald Trump</a> ofreció consuelo el miércoles a las familias que sufrieron pérdidas por el huracán Florence al declarar que “Estados Unidos llora con ustedes”, durante la visita que hizo a Carolina del Norte para revisar los daños causados por la poderosa tormenta.</p>\n<p>No obstante, pese a que <a href=\"https://mundohispanico.staging.wpengine.com/noticias/internacionales/trump-causa-enojo-de-boricuas-al-lanzar-papel-a-damnificados-video\" target=\"_blank\" rel=\"noopener\">no les lanzó empaques de papel toalla</a> como lo hizo con los damnificados por el devastador huracán María en Puerto Rico el año pasado, testigos presenciaron que el mandatario dijo frases como &#8220;pásenla bien&#8221; mientras repartía perros calientes a los afectados que, cansados y frustrados, aún esperan por volver a sus hogares tras la inundación de proporciones épicas.</p>\n<p>Según el <a href=\"http://www.nydailynews.com/news/politics/ny-pol-trump-visits-carolina-florence-20180919-story.html\" target=\"_blank\" rel=\"noopener\">New York Daily News</a>, funcionarios estatales dijeron que Trump tuvo la indiscreción de preguntarles por un área específica de Carolina del Norte donde el presidente tiene un campo de golf.</p>\n<p>&#8220;¿Cómo está Lake Norman?&#8221;, preguntó. &#8220;Me encanta esa zona. No puede puedo decirles por qué, pero me encanta esa área&#8221;.</p>\n<p>Su propiedad, el Trump National Golf Club, se encuentra en Mooresville, junto a Lake Norman.</p>\n<h2>Trump, comprometido con las víctimas &#8220;al 100%&#8221;</h2>\n<p>Trump se comprometió a estar con las víctimas de la tormenta “al 100%” en lo que se recuperan del meteoro, que causó lluvias torrenciales y fuertes inundaciones que obligaron a las autoridades estatales, federales y locales a adoptar enormes acciones de recuperación.</p>\n<p>El presidente viajó el miércoles al sur en momentos en que continúan los problemas para la región por las secuelas de la tormenta, a las que el gobernador de Carolina del Norte, Roy Cooper, describió como “fenomenales”. El número de fallecidos subió al menos a 37 en Carolina del Norte, Carolina del Sur y Virginia desde el viernes, cuando Florence tocó tierra.</p>\n<p>TE PUEDE INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/dinero/a-cuanto-esta-el-cambio-del-dolar-al-peso-hoy-19-de-septiembre-y-por-que\" target=\"_blank\" rel=\"noopener\">¿A cuánto está el cambio del dólar al peso hoy 19 de septiembre y por qué?</a></p>\n<p>En la primera escala de Trump, Cooper informó al presidente en la estación aérea del Cuerpo de Infantería de Marina de Estados Unidos. El gobernador solicitó ayuda para que “se eliminen los trámites burocráticos” a fin de que su estado consiga la asistencia federal que necesita para la recuperación. Subrayó que los agricultores sufrieron grandes pérdidas y un gran número de personas se quedó sin casa. Aproximadamente 10,000 continúan en albergues.</p>\n<p>“Estaremos ahí al 100%”, señaló Trump, que llevaba puesto un rompevientos y pantalones caqui, mientras permanecía sentado dentro de un hangar con funcionarios federales y estatales. “Todas las personas del gobierno federal que están en esta mesa lo confirman”.</p>\n<p>Trump elogió a los organismos que acudieron a la emergencia y ofreció consuelo a los habitantes afectados por la tormenta. “A las familias que perdieron seres queridos, Estados Unidos llora con ustedes, y nuestros corazones están destrozados por ustedes. Dios los bendiga. Jamás olvidaremos su pérdida, nunca nos separaremos de ustedes, siempre estaremos con ustedes”, dijo.</p>\n<p>“Y a todos aquellos afectados por esta terrible tormenta, nuestra familia estadounidense completa está con ustedes y dispuesta ayudar. Ustedes se recuperarán”, agregó.</p>\n<p><em>Con información de AP.</em></p>\n<p>ES TENDENCIA</p>\n<div id='p5'></div><script data-anvp='{&quot;mcp&quot;:&quot;ANV&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;56%&quot;,&quot;video&quot;:&quot;4487132&quot;,&quot;autoplay&quot;:false,&quot;pInstance&quot;:&quot;p5&quot;,&quot;plugins&quot;:{&quot;comscore&quot;:{&quot;clientId&quot;:&quot;6035944&quot;},&quot;dfp&quot;:{&quot;adTagUrl&quot;:&quot;https:\\/\\/googleads.g.doubleclick.net\\/pagead\\/ads?ad_type=video&amp;client=ca-video-pub-4968145218643279&amp;videoad_start_delay=0&amp;description_url=httpwww.google.com&amp;max_ad_duration=40000&amp;adtest=on&quot;}},&quot;accessKey&quot;:&quot;p5orxQw5D9wvGTqlOmhgMc7xwow49q8z&quot;,&quot;token&quot;:&quot;default&quot;}' src='https://w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js'></script>\n",
+            "excerpt": "<p>El presidente Donald Trump ofreció consuelo el miércoles a las familias que sufrieron pérdidas por el huracán Florence al declarar que “Estados Unidos llora con ustedes”, durante la visita que hizo a Carolina del Norte para revisar los daños causados por la poderosa tormenta. No obstante, pese a que no les lanzó empaques de papel [&hellip;]</p>\n",
+            "date": "2018-09-19 18:03:36",
+            "modified": "2018-09-19 18:03:39",
+            "categories": [
+                {
+                    "id": 19,
+                    "slug": "nacionales",
+                    "title": "Nacionales",
+                    "description": "",
+                    "parent": 9,
+                    "post_count": 10553
+                },
+                {
+                    "id": 9,
+                    "slug": "noticias",
+                    "title": "Noticias",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 20473
+                }
+            ],
+            "tags": [],
+            "author": {
+                "id": 17,
+                "slug": "mundohispanico2",
+                "name": "Redacción MundoHispánico",
+                "first_name": "Redacción",
+                "last_name": "MundoHispánico",
+                "nickname": "mundohispanico2",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354184,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/trumphuracanflorence-getty.jpg",
+                    "slug": "president-trump-departs-the-white-house-en-route-to-north-carolina-2",
+                    "title": "President Trump Departs The White House En Route To North Carolina",
+                    "description": "",
+                    "caption": "Getty Images",
+                    "parent": 354148,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "featured_image_x_offset": [
+                    "-5.595322517664178e-17"
+                ],
+                "featured_image_y_offset": [
+                    "0.0382474221425402"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.7909604519774012"
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "Getty Images"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "wpb_post_views_count": [
+                    "211"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 354126,
+            "type": "post",
+            "slug": "seguimos-adelante-con-nuestra-gente",
+            "url": "https://mundohispanico.staging.wpengine.com/noticias/nacionales/seguimos-adelante-con-nuestra-gente",
+            "status": "publish",
+            "title": "¡Seguimos adelante con nuestra gente!",
+            "title_plain": "¡Seguimos adelante con nuestra gente!",
+            "content": "<p>Hoy quienes trabajamos para MundoHispánico estamos llenos de entusiasmo y felicidad porque la misión que comenzó hace casi 40 años aquí en Atlanta de informar, educar y empoderar a los latinos de Georgia sigue firme y hacia adelante.</p>\n<p>A partir de esta semana nuestro medio pertenecerá a Mundo Hispano Digital Network (MHDN), una empresa minoritaria con dueños latinos comprometidos con el bienestar de la comunidad, que conocen bien las necesidades de los hispanos, comparten nuestra cultura y celebran nuestra herencia.</p>\n<p>Físicamente también regresaremos al corazón de la comunidad, con nuevas oficinas ubicadas en 5269 Buford Highway, Doraville, GA, 30340. Allí, cerca de esas miles de familias que día a día leen nuestro periódico y se informan con nuestras noticias en Internet y en las redes sociales, seguiremos reportando para ustedes los hechos y acontecimientos de mayor impacto para nuestra comunidad.</p>\n<blockquote><p>TE PUEDE INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/dinero/mexicanos-se-confunden-con-moneda-de-20-pesos-fotos\">Mexicanos se confunden con moneda de 20 pesos (FOTOS)</a></p></blockquote>\n<p>Como latinos nos sentimos orgullosos de seguir junto a ustedes y asumimos nuestra responsabilidad de informar verazmente los hechos que nos afectan de costa a costa, como lo hemos venido haciendo desde hace tres años, cuando tuvimos nuestra expansión a nivel nacional.</p>\n<p>Quienes siguen fielmente a este medio, nos han visto crecer, de un periódico local a una de las plataformas de Internet en español más visitadas del país, con videos, noticieros en vivo, transmisiones especiales, coberturas en todo Estados Unidos y México, además de nuestros contenidos y videos especiales en temas de Dinero, Motor, Latina, Motor, Fan, Sabor, entre otros.</p>\n<p>Nuestro nuevo presidente y CEO, René Alegría, también comparte nuestro objetivo de servir a la comunidad y tiene una visión futurista de fortalecer a Atlanta como un centro de medios hispanos en el país. “Mundo ha servido por mucho tiempo como una fuente de información dinámica y confiable para la comunidad latina de Atlanta. Por ello, nuestra adquisición tiene<br />\ntanta importancia. Estamos felices de comenzar esta etapa”, dijo Alegría.</p>\n<p>TE PUEDE INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/dinero/desgarradora-fotografia-logra-recolectar-43000-dolares-en-un-dia-foto\">Desgarradora fotografía logra recolectar 43,000 dólares en un día (FOTO)</a></p>\n<p>Hoy en esta nueva fase reafirmamos nuestro compromiso de ser el vocero de la comunidad latina de Estados Unidos, de llevarles las noticias más importantes sobre inmigración, política, finanzas, entretenimiento y de reportar las historias que pocos medios se atreven a sacar a la luz.</p>\n<p>Gracias por preferir MundoHispánico, por seguirnos en las redes sociales, por compartir sus historias con nosotros, por confiar en nuestro trabajo y por dejarnos entrar cada día a sus hogares. Recuerden que en MundoHispánico siempre les tenemos las noticias primero y que nuestra conexión con la comunidad seguirá más fuerte que nunca.</p>\n<blockquote><p>ES TENDENCIA:</p>\n<div id='p6'></div><script data-anvp='{&quot;mcp&quot;:&quot;ANV&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;56%&quot;,&quot;video&quot;:&quot;4487122&quot;,&quot;autoplay&quot;:false,&quot;pInstance&quot;:&quot;p6&quot;,&quot;plugins&quot;:{&quot;comscore&quot;:{&quot;clientId&quot;:&quot;6035944&quot;},&quot;dfp&quot;:{&quot;adTagUrl&quot;:&quot;https:\\/\\/googleads.g.doubleclick.net\\/pagead\\/ads?ad_type=video&amp;client=ca-video-pub-4968145218643279&amp;videoad_start_delay=0&amp;description_url=httpwww.google.com&amp;max_ad_duration=40000&amp;adtest=on&quot;}},&quot;accessKey&quot;:&quot;p5orxQw5D9wvGTqlOmhgMc7xwow49q8z&quot;,&quot;token&quot;:&quot;default&quot;}' src='https://w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js'></script></blockquote>\n",
+            "excerpt": "<p>Hoy quienes trabajamos para MundoHispánico estamos llenos de entusiasmo y felicidad porque la misión que comenzó hace casi 40 años aquí en Atlanta de informar, educar y empoderar a los latinos de Georgia sigue firme y hacia adelante. A partir de esta semana nuestro medio pertenecerá a Mundo Hispano Digital Network (MHDN), una empresa minoritaria [&hellip;]</p>\n",
+            "date": "2018-09-19 17:58:58",
+            "modified": "2018-09-19 18:16:46",
+            "categories": [
+                {
+                    "id": 19,
+                    "slug": "nacionales",
+                    "title": "Nacionales",
+                    "description": "",
+                    "parent": 9,
+                    "post_count": 10553
+                }
+            ],
+            "tags": [
+                {
+                    "id": 207,
+                    "slug": "atlanta",
+                    "title": "Atlanta",
+                    "description": "",
+                    "post_count": 1530
+                },
+                {
+                    "id": 8644,
+                    "slug": "buford-highway",
+                    "title": "buford highway",
+                    "description": "",
+                    "post_count": 12
+                },
+                {
+                    "id": 1446,
+                    "slug": "mundohispanico",
+                    "title": "MundoHispanico",
+                    "description": "",
+                    "post_count": 282
+                },
+                {
+                    "id": 117381,
+                    "slug": "nueva-casa",
+                    "title": "nueva casa",
+                    "description": "",
+                    "post_count": 2
+                }
+            ],
+            "author": {
+                "id": 26,
+                "slug": "mariabastida",
+                "name": "Maria Alejandra Bastida",
+                "first_name": "Maria",
+                "last_name": "Alejandra Bastida",
+                "nickname": "mariabastida",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354185,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/Nuevo-Mundo.jpg",
+                    "slug": "nuevo-mundo",
+                    "title": "Nuevo Mundo",
+                    "description": "",
+                    "caption": "",
+                    "parent": 354126,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                },
+                {
+                    "id": 354196,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/Nuevo-Mundo-1.jpg",
+                    "slug": "nuevo-mundo-2",
+                    "title": "Nuevo Mundo",
+                    "description": "",
+                    "caption": "",
+                    "parent": 354126,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    ""
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "featured_image_x_offset": [
+                    "0"
+                ],
+                "featured_image_y_offset": [
+                    "0"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.7000000000000002"
+                ],
+                "wpb_post_views_count": [
+                    "96"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 354165,
+            "type": "post",
+            "slug": "no-creeras-lo-que-hizo-aislinn-derbez-cuando-su-perro-lleno-de-babas-a-kailani",
+            "url": "https://mundohispanico.staging.wpengine.com/latina/no-creeras-lo-que-hizo-aislinn-derbez-cuando-su-perro-lleno-de-babas-a-kailani",
+            "status": "publish",
+            "title": "No creerás lo que hizo Aislinn Derbez cuando su perro llenó de babas a Kailani",
+            "title_plain": "No creerás lo que hizo Aislinn Derbez cuando su perro llenó de babas a Kailani",
+            "content": "<p>A casi cinco meses de haberse convertido en mamá, <a href=\"https://mundohispanico.staging.wpengine.com/entretenimiento/aislinn-envia-mensaje-a-alessandra-rosaldo-la-cuestionan-sobre-su-mama\">Aislinn Derbez</a> ha dado a conocer que uno de los momentos que más disfruta durante el día es cuando su perrito &#8220;Cochi&#8221; juega con la pequeña Kailani. Contrario a lo que mucha gente piensa, <a href=\"https://mundohispanico.staging.wpengine.com/latina/acaban-con-aislinn-derbez-por-tratar-como-un-juguete-a-su-bebe\">la actriz</a> aseguró que el contacto con su adorable mascota ayuda a la bebé a reforzar su sistema inmunológico y la probabilidad de adquirir alergias es mucho menor.</p>\n<p>Mediante las historias de <a href=\"https://www.instagram.com/aislinnderbez/\">Instagram</a>, compartió un video en el que se puede ver a la bebé en posición de gateo y al canino lamiendo sus brazos y aseguró que su pediatra está a favor de este contacto tan especial, pero una vez que el juego termina tiene que lavarle las manos a la nena para que las bacterias no entren a su boquita.</p>\n<blockquote><p><strong>RECOMENDADA: <a href=\"https://mundohispanico.staging.wpengine.com/latina/emma-coronel-presume-exotica-fiesta-de-las-hijas-de-el-chapo\">Emma Coronel presume exótica fiesta de las hijas de ‘El Chapo’</a></strong></p></blockquote>\n<p>&#8220;Kai está generando anticuerpos para estar más sana y fuerte. Mucha gente abandona o regala a sus perros cuando van a tener bebé por el miedo a las alergias o bacterias, lo cual es cruel y absurdo. Si ya tienen perros, son los mejores compañeros para su bebé y hasta les ayuda a que estén más sanos&#8221;, escribió la protagonista de la &#8216;Cada de Las Flores&#8221; en la red social.</p>\n<div data-responsive-video class=\"cm-post__embed cm-post__embed--16x9\" data-aspectratio=\"1.77778\"><iframe src=\"https://www.youtube.com/embed/LCGdn-RnYPo?feature=oembed\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe></div>\n<p>La hija de Eugenio Derbez también aclaró que, luego de que nena juega con su compañero peludo, ella se encarga de asearla: &#8220;obvio, siempre le lavo las manitas después de que conviven&#8221;, señaló.</p>\n<blockquote><p><strong>TE PUEDE INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/latina/hija-de-lupillo-rivera-se-salva-de-liposuccion-pero-le-llueven-criticas\">Hija de Lupillo Rivera se salva de liposucción pero le llueven críticas</a></strong></p></blockquote>\n<p>Como un consejo final, <a href=\"https://mundohispanico.staging.wpengine.com/latina/vadhir-derbez-se-burla-de-aislinn-y-las-redes-estallan-en-risas\">Aislinn Derbez</a> señaló que lo más importante a la hora de la convivencia entre los perros y los bebés es que no les hagan daño a los animalitos, pues esto puede detonar agresiones y mordidas que traerían consecuencias graves.</p>\n<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/BnHDGTolw6z/?utm_source=ig_embed_loading\" data-instgrm-version=\"12\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:640px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\">\n<div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/BnHDGTolw6z/?utm_source=ig_embed_loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> </p>\n<div style=\" display: flex; flex-direction: row; align-items: center;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div>\n<div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\">\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div>\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div>\n</div>\n</div>\n<div style=\"padding: 19% 0;\"></div>\n<div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div>\n<div style=\"padding-top: 8px;\">\n<div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div>\n</div>\n<div style=\"padding: 12.5% 0;\"></div>\n<div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div>\n<div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div>\n</div>\n<div style=\"margin-left: 8px;\">\n<div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div>\n<div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div>\n</div>\n<div style=\"margin-left: auto;\">\n<div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div>\n<div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div>\n<div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div>\n</div>\n</div>\n<p></a> </p>\n<p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/BnHDGTolw6z/?utm_source=ig_embed_loading\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">Tanto amor y tanto aprendizaje y solo apenas llevamos 6 meses! Qué emoción tenerte en mi vida 😍</a></p>\n<p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">A post shared by <a href=\"https://www.instagram.com/aislinnderbez/?utm_source=ig_embed_loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;\" target=\"_blank\"> 🅐🅘🅢🅛🅘🅝🅝    🅓🅔🅡🅑🅔🅩</a> (@aislinnderbez) on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2018-08-30T16:42:23+00:00\">Aug 30, 2018 at 9:42am PDT</time></p>\n</div>\n</blockquote>\n<p><script async defer src=\"//www.instagram.com/embed.js\"></script></p>\n<blockquote><p><strong>ES TENDENCIA: </strong></p></blockquote>\n<div id='p7'></div><script data-anvp='{&quot;mcp&quot;:&quot;ANV&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;56%&quot;,&quot;video&quot;:&quot;4487132&quot;,&quot;autoplay&quot;:false,&quot;pInstance&quot;:&quot;p7&quot;,&quot;plugins&quot;:{&quot;comscore&quot;:{&quot;clientId&quot;:&quot;6035944&quot;},&quot;dfp&quot;:{&quot;adTagUrl&quot;:&quot;https:\\/\\/googleads.g.doubleclick.net\\/pagead\\/ads?ad_type=video&amp;client=ca-video-pub-4968145218643279&amp;videoad_start_delay=0&amp;description_url=httpwww.google.com&amp;max_ad_duration=40000&amp;adtest=on&quot;}},&quot;accessKey&quot;:&quot;p5orxQw5D9wvGTqlOmhgMc7xwow49q8z&quot;,&quot;token&quot;:&quot;default&quot;}' src='https://w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js'></script>\n",
+            "excerpt": "<p>A casi cinco meses de haberse convertido en mamá, Aislinn Derbez ha dado a conocer que uno de los momentos que más disfruta durante el día es cuando su perrito &#8220;Cochi&#8221; juega con la pequeña Kailani. Contrario a lo que mucha gente piensa, la actriz aseguró que el contacto con su adorable mascota ayuda a [&hellip;]</p>\n",
+            "date": "2018-09-19 17:39:48",
+            "modified": "2018-09-19 17:40:53",
+            "categories": [
+                {
+                    "id": 8180,
+                    "slug": "latina",
+                    "title": "Latina",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 3380
+                }
+            ],
+            "tags": [
+                {
+                    "id": 5668,
+                    "slug": "aislinn-derbez",
+                    "title": "Aislinn Derbez",
+                    "description": "",
+                    "post_count": 74
+                },
+                {
+                    "id": 16196,
+                    "slug": "animales",
+                    "title": "animales",
+                    "description": "",
+                    "post_count": 13
+                },
+                {
+                    "id": 163,
+                    "slug": "bebe",
+                    "title": "bebé",
+                    "description": "",
+                    "post_count": 298
+                },
+                {
+                    "id": 30812,
+                    "slug": "famosa",
+                    "title": "famosa",
+                    "description": "",
+                    "post_count": 507
+                },
+                {
+                    "id": 43869,
+                    "slug": "kailani",
+                    "title": "Kailani",
+                    "description": "",
+                    "post_count": 41
+                },
+                {
+                    "id": 1577,
+                    "slug": "latina",
+                    "title": "latina",
+                    "description": "",
+                    "post_count": 554
+                },
+                {
+                    "id": 1105,
+                    "slug": "mascotas",
+                    "title": "mascotas",
+                    "description": "",
+                    "post_count": 16
+                },
+                {
+                    "id": 1737,
+                    "slug": "maternidad",
+                    "title": "maternidad",
+                    "description": "",
+                    "post_count": 157
+                },
+                {
+                    "id": 584,
+                    "slug": "perros",
+                    "title": "perros",
+                    "description": "",
+                    "post_count": 25
+                }
+            ],
+            "author": {
+                "id": 230,
+                "slug": "mezcalent",
+                "name": "Mezcalent",
+                "first_name": "Mezcalent",
+                "last_name": "",
+                "nickname": "Mezcalent",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354178,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/aislinnn.jpg",
+                    "slug": "aislinnn",
+                    "title": "aislinnn",
+                    "description": "",
+                    "caption": "",
+                    "parent": 354165,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                },
+                {
+                    "id": 354179,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/Aislinn-Derbez-1.jpg",
+                    "slug": "aislinn-derbez-1-2",
+                    "title": "Aislinn-Derbez-1",
+                    "description": "",
+                    "caption": "",
+                    "parent": 354165,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "featured_image_x_offset": [
+                    "0"
+                ],
+                "featured_image_y_offset": [
+                    "0.03947368421052631"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.9210526315789473"
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "Foto: Mezcalent"
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "wpb_post_views_count": [
+                    "93"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        },
+        {
+            "id": 353947,
+            "type": "post",
+            "slug": "en-un-vestido-de-transparencias-y-sin-brasier-thalia-invita-a-gozar-foto",
+            "url": "https://mundohispanico.staging.wpengine.com/entretenimiento/en-un-vestido-de-transparencias-y-sin-brasier-thalia-invita-a-gozar-foto",
+            "status": "publish",
+            "title": "En un vestido de transparencias y sin brasier, Thalía invita a “gozar” (FOTO)",
+            "title_plain": "En un vestido de transparencias y sin brasier, Thalía invita a “gozar” (FOTO)",
+            "content": "<p>Presumiendo la envidiable figura que posee a sus 47 años, Thalía sorprendió a sus seguidores de redes sociales portando un revelador <a href=\"https://mundohispanico.staging.wpengine.com/latina/destruyen-a-ximena-duque-en-redes-sociales-por-controversial-vestido\">vestido</a> y sin usar brasier.</p>\n<p>Fue mediante su cuenta de <a href=\"https://mundohispanico.staging.wpengine.com/entretenimiento/al-estilo-de-marilyn-monroe-la-presentadora-karla-martinez-cautiva-instagram-foto\">Instagram</a> que la cantante mexicana compartió la sensual imagen con la que invitó a sus seguidores a gozar.</p>\n<p>En el post se observa a Thalía con un ajustado <a href=\"https://mundohispanico.staging.wpengine.com/entretenimiento/con-vestido-de-transparencias-alejandra-espinoza-ensena-su-suculenta-figura-fotos-y-video\">vestido de transparencias</a>, el cual acomodado estratégicamente permite ver qué la señora de <a href=\"https://www.instagram.com/tommymottola/\">Mottola</a> no lleva brasier puesto.</p>\n<p>&nbsp;</p>\n<blockquote><p>TE PUEDE INTERESAR: <a href=\"https://mundohispanico.staging.wpengine.com/latina/en-ajustado-pantalon-rojo-chiquis-rivera-celebra-la-independencia-de-mexico-foto\">En ajustado pantalón rojo Chiquis Rivera celebra la Independencia de México (FOTO)</a></p>\n<p>&nbsp;</p></blockquote>\n<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/Bn1T5cSFrT0/?utm_source=ig_embed_loading\" data-instgrm-version=\"12\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:640px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\">\n<div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/Bn1T5cSFrT0/?utm_source=ig_embed_loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> </p>\n<div style=\" display: flex; flex-direction: row; align-items: center;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div>\n<div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\">\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div>\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div>\n</div>\n</div>\n<div style=\"padding: 19% 0;\"></div>\n<div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div>\n<div style=\"padding-top: 8px;\">\n<div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div>\n</div>\n<div style=\"padding: 12.5% 0;\"></div>\n<div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div>\n<div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div>\n</div>\n<div style=\"margin-left: 8px;\">\n<div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div>\n<div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div>\n</div>\n<div style=\"margin-left: auto;\">\n<div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div>\n<div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div>\n<div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div>\n</div>\n</div>\n<p></a> </p>\n<p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/Bn1T5cSFrT0/?utm_source=ig_embed_loading\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">¡Que tengan una semana llena de ritmo!  Lleva ritmo en el corazón para revivir los sueños olvidados, ritmo en la mente para siempre recordar los pasos que nos guiaron a este presente maravilloso y ritmo en el alma para bailar con la música divina que siempre nos acompaña. ¡Busca el ritmo para vivir tu mejor vida HOY! ¡A gozar! 💃🏼 May you have a week full of rhythm! Find the rhythm that works for you, and start living your best life today!!! Have fun!!! #life #happiness #blessed #music #vida #amor</a></p>\n<p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">A post shared by <a href=\"https://www.instagram.com/thalia/?utm_source=ig_embed_loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;\" target=\"_blank\"> Thalia</a> (@thalia) on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2018-09-17T15:54:14+00:00\">Sep 17, 2018 at 8:54am PDT</time></p>\n</div>\n</blockquote>\n<p><script async defer src=\"//www.instagram.com/embed.js\"></script></p>\n<p>&nbsp;</p>\n<p>La intérprete de “No me acuerdo” acompañó la imagen con la leyenda: “¡Qué tengan una semana llena de ritmo! Lleva ritmo en el corazón para revivir los sueños olvidados, ritmo en la mente para siempre recordar los pasos que nos guiaron a este presente maravilloso y ritmo en el alma para bailar con la música divina que siempre nos acompaña. ¡Busca el ritmo para vivir tu mejor vida hoy! ¡A gozar!&#8221;.</p>\n<p>Hasta el momento la fotografía de la también actriz ha alcanzado casi los 400 mil likes y un gran numero de comentarios por parte de sus más de 11 millones de seguidores.</p>\n<p>&nbsp;</p>\n<h1>&#8220;Con todo respeto pero está como quiere”</h1>\n<p>&nbsp;</p>\n<p>Fue solo cuestión de tiempo para que sus fanáticos comenzara a comentar: “Señora hermosa, qué chula está usted”, “es todo un ángel, bellísima”, “con todo respeto pero está como quiere”, “ya quisieran verse así de bien las señoritas de 20”, “eres toda una Diosa”.</p>\n<p>Inclusive su buena apariencia sorprendió tanto que le preguntaron: “¿dónde está la fuente de la eterna juventud, Thalía?”, “ya di tu secreto para verte así de joven, mamita”.</p>\n<p>&nbsp;</p>\n<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/BmrVptQFduF/?utm_source=ig_embed_loading\" data-instgrm-version=\"12\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:640px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\">\n<div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/BmrVptQFduF/?utm_source=ig_embed_loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> </p>\n<div style=\" display: flex; flex-direction: row; align-items: center;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div>\n<div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\">\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div>\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div>\n</div>\n</div>\n<div style=\"padding: 19% 0;\"></div>\n<div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div>\n<div style=\"padding-top: 8px;\">\n<div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div>\n</div>\n<div style=\"padding: 12.5% 0;\"></div>\n<div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div>\n<div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div>\n</div>\n<div style=\"margin-left: 8px;\">\n<div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div>\n<div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div>\n</div>\n<div style=\"margin-left: auto;\">\n<div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div>\n<div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div>\n<div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div>\n</div>\n</div>\n<p></a> </p>\n<p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/BmrVptQFduF/?utm_source=ig_embed_loading\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">Hoy conocí a mi #fashionicon @iris.apfel. Siempre he sido extravagante y atrevida en mi forma de vestir, y saber que en el mundo existen seres maravillosos como ella, que inspiran a seguir un camino personal y auténtico, sin importar lo que nadie diga, es refrescante. Y como buena #fan, compré su libro, me llevé un sharpie y le pedí su autógrafo. 😉 Se cumplió otro de mis deseos del  #bucketlist. ✅ Like a good fan, I went to get #IrisApfel’s autograph at her book signing! She is my fashion icon! One more thing off my bucket list!</a></p>\n<p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">A post shared by <a href=\"https://www.instagram.com/thalia/?utm_source=ig_embed_loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;\" target=\"_blank\"> Thalia</a> (@thalia) on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2018-08-19T22:25:46+00:00\">Aug 19, 2018 at 3:25pm PDT</time></p>\n</div>\n</blockquote>\n<p><script async defer src=\"//www.instagram.com/embed.js\"></script></p>\n<p>&nbsp;</p>\n<p>Pero no todo fue miel sobre hojuelas para la mexicana, ya que sus haters se hicieron presentes: “ni con tantos filtros, ni botox se le quita lo corriente. Qué fea foto”, “esta mujer es tan fea que da miedo”, “que horrible boca, ya estás mayor. No te pongas tanto botox”, “te miras súper fea y ridícula”.</p>\n<p>&nbsp;</p>\n<blockquote><p>RELACIONADO: <a href=\"https://mundohispanico.staging.wpengine.com/entretenimiento/kendall-jenner-no-usa-brasiere-y-conmociona-las-redes-fotos\">Kendall Jenner no usa brasiere y conmociona las redes (FOTOS)</a></p>\n<p>&nbsp;</p></blockquote>\n<p>De igual manera uno de sus detractores señaló que la constante exposición en redes de la cantante era solo para llamar la atención: “Ya no sabes qué hacer, se nota que solo quieres llamar la atención a toda costa, pero ya no estás para esas tonteras”.</p>\n<p>Sin embargo, parece que los comentarios negativos no le afectan en lo más mínimo, ya que la intérprete sigue mostrando su buena vibra en las publicaciones que hace.</p>\n<p>Inclusive hace unas horas subió un video en una tienda de flores, sosteniendo unos adornos de fantasmas con el título: &#8220;¡ya se viene Halloween!&#8221;.</p>\n<p>&nbsp;</p>\n<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/Bn6e2TvFcl_/?utm_source=ig_embed_loading\" data-instgrm-version=\"12\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:640px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\">\n<div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/Bn6e2TvFcl_/?utm_source=ig_embed_loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> </p>\n<div style=\" display: flex; flex-direction: row; align-items: center;\">\n<div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div>\n<div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\">\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div>\n<div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div>\n</div>\n</div>\n<div style=\"padding: 19% 0;\"></div>\n<div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div>\n<div style=\"padding-top: 8px;\">\n<div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> View this post on Instagram</div>\n</div>\n<div style=\"padding: 12.5% 0;\"></div>\n<div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\">\n<div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div>\n<div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div>\n<div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div>\n</div>\n<div style=\"margin-left: 8px;\">\n<div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div>\n<div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div>\n</div>\n<div style=\"margin-left: auto;\">\n<div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div>\n<div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div>\n<div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div>\n</div>\n</div>\n<p></a> </p>\n<p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/Bn6e2TvFcl_/?utm_source=ig_embed_loading\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">¡Y ya se viene el Halloween! 🎃 “ this is Halloween,this is Halloween”</a></p>\n<p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">A post shared by <a href=\"https://www.instagram.com/thalia/?utm_source=ig_embed_loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;\" target=\"_blank\"> Thalia</a> (@thalia) on <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2018-09-19T16:07:34+00:00\">Sep 19, 2018 at 9:07am PDT</time></p>\n</div>\n</blockquote>\n<p><script async defer src=\"//www.instagram.com/embed.js\"></script></p>\n<p>&nbsp;</p>\n<p>¿De qué nueva forma sorprenderá Thalía a sus fans?.</p>\n<p>&nbsp;</p>\n<blockquote><p>ES TENDENCIA:</p></blockquote>\n<div id='p8'></div><script data-anvp='{&quot;mcp&quot;:&quot;ANV&quot;,&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;56%&quot;,&quot;video&quot;:&quot;4485618&quot;,&quot;autoplay&quot;:false,&quot;pInstance&quot;:&quot;p8&quot;,&quot;plugins&quot;:{&quot;comscore&quot;:{&quot;clientId&quot;:&quot;6035944&quot;},&quot;dfp&quot;:{&quot;adTagUrl&quot;:&quot;https:\\/\\/googleads.g.doubleclick.net\\/pagead\\/ads?ad_type=video&amp;client=ca-video-pub-4968145218643279&amp;videoad_start_delay=0&amp;description_url=httpwww.google.com&amp;max_ad_duration=40000&amp;adtest=on&quot;}},&quot;accessKey&quot;:&quot;p5orxQw5D9wvGTqlOmhgMc7xwow49q8z&quot;,&quot;token&quot;:&quot;default&quot;}' src='https://w3.cdn.anvato.net/player/prod/v3/scripts/anvload.js'></script>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+            "excerpt": "<p>Presumiendo la envidiable figura que posee a sus 47 años, Thalía sorprendió a sus seguidores de redes sociales portando un revelador vestido y sin usar brasier. Fue mediante su cuenta de Instagram que la cantante mexicana compartió la sensual imagen con la que invitó a sus seguidores a gozar. En el post se observa a [&hellip;]</p>\n",
+            "date": "2018-09-19 17:19:50",
+            "modified": "2018-09-19 17:19:51",
+            "categories": [
+                {
+                    "id": 10,
+                    "slug": "entretenimiento",
+                    "title": "Entretenimiento",
+                    "description": "",
+                    "parent": 0,
+                    "post_count": 9089
+                }
+            ],
+            "tags": [
+                {
+                    "id": 130845,
+                    "slug": "no-me-acuerdo",
+                    "title": "'No me acuerdo'",
+                    "description": "",
+                    "post_count": 4
+                },
+                {
+                    "id": 199059,
+                    "slug": "enloquece-a-sus-seguidores",
+                    "title": "enloquece a sus seguidores",
+                    "description": "",
+                    "post_count": 2
+                },
+                {
+                    "id": 203017,
+                    "slug": "envidiable-figura",
+                    "title": "envidiable figura",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 1516,
+                    "slug": "instagram",
+                    "title": "instagram",
+                    "description": "",
+                    "post_count": 1183
+                },
+                {
+                    "id": 203016,
+                    "slug": "necesitada-de-atencion",
+                    "title": "necesitada de atención",
+                    "description": "",
+                    "post_count": 1
+                },
+                {
+                    "id": 162860,
+                    "slug": "recibe-fuertes-criticas",
+                    "title": "recibe fuertes criticas",
+                    "description": "",
+                    "post_count": 2
+                },
+                {
+                    "id": 178071,
+                    "slug": "sin-brasier",
+                    "title": "sin brasier",
+                    "description": "",
+                    "post_count": 3
+                },
+                {
+                    "id": 661,
+                    "slug": "thalia",
+                    "title": "Thalía",
+                    "description": "",
+                    "post_count": 181
+                },
+                {
+                    "id": 203015,
+                    "slug": "vestido-de-transparencias",
+                    "title": "vestido de transparencias",
+                    "description": "",
+                    "post_count": 1
+                }
+            ],
+            "author": {
+                "id": 215,
+                "slug": "mimundo-fan",
+                "name": "MiMundoFAN",
+                "first_name": "MiMundoFAN",
+                "last_name": "",
+                "nickname": "MiMundo FAN",
+                "url": "",
+                "description": ""
+            },
+            "comments": [],
+            "attachments": [
+                {
+                    "id": 354131,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/Thalia-Screen-Shot.png",
+                    "slug": "thalia-screen-shot",
+                    "title": "Thalia Screen Shot",
+                    "description": "",
+                    "caption": "",
+                    "parent": 353947,
+                    "mime_type": "image/png",
+                    "images": []
+                },
+                {
+                    "id": 354175,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/Captura-de-pantalla-2018-09-19-a-las-16.19.08.png",
+                    "slug": "captura-de-pantalla-2018-09-19-a-las-16-19-08",
+                    "title": "Captura de pantalla 2018-09-19 a las 16.19.08",
+                    "description": "",
+                    "caption": "",
+                    "parent": 353947,
+                    "mime_type": "image/png",
+                    "images": []
+                },
+                {
+                    "id": 353961,
+                    "url": "https://mundohispanico.staging.wpengine.com/wp-content/uploads/2018/09/THALIAmacysLongIslandNY16.jpg",
+                    "slug": "thaliamacyslongislandny16",
+                    "title": "THALIAmacysLongIslandNY16",
+                    "description": "",
+                    "caption": "",
+                    "parent": 353947,
+                    "mime_type": "image/jpeg",
+                    "images": []
+                }
+            ],
+            "comment_count": 0,
+            "comment_status": "closed",
+            "thumbnail": null,
+            "custom_fields": {
+                "cmg_post_status": [
+                    "publish"
+                ],
+                "is_post_sponsored": [
+                    ""
+                ],
+                "featured_image_x_offset": [
+                    "0"
+                ],
+                "featured_image_y_offset": [
+                    "0.21388998812821527"
+                ],
+                "featured_image_width": [
+                    "1"
+                ],
+                "featured_image_height": [
+                    "0.31658092599920856"
+                ],
+                "hide_post_from_homepage": [
+                    ""
+                ],
+                "hide_featured_img_from_post": [
+                    null
+                ],
+                "promoted_post": [
+                    null
+                ],
+                "native_sponsor": [
+                    "None"
+                ],
+                "video_youtube_id": [
+                    ""
+                ],
+                "video_brightcove_id": [
+                    ""
+                ],
+                "video_cinesport_id": [
+                    ""
+                ],
+                "video_anvato_id": [
+                    ""
+                ],
+                "video_espn_id": [
+                    ""
+                ],
+                "video_type": [
+                    ""
+                ],
+                "video_embed": [
+                    ""
+                ],
+                "what_type_of_video_is_this": [
+                    "0"
+                ],
+                "video_caption": [
+                    ""
+                ],
+                "video_source": [
+                    "Mezcalent"
+                ],
+                "facebook_instant_article_feed_visibility": [
+                    "1"
+                ],
+                "is_collection_overriding": [
+                    "0"
+                ],
+                "blockquote": [
+                    ""
+                ],
+                "is_recipe": [
+                    "0"
+                ],
+                "wpb_post_views_count": [
+                    "90"
+                ]
+            },
+            "thumbnail_size": "thumbnail",
+            "thumbnail_images": [],
+            "taxonomy_sponsorships": []
+        }
+    ]
+}
